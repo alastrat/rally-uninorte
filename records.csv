@@ -1,0 +1,1171 @@
+CODIGO;APELLIDOS;PRIMER_NOMBRE;SEGUNDO_NOMBRE;FECHA_NACIMIENTO;CIUDADANIA;TIPO_DOCUMENTO;No_DOCUMENTO;LUGAR_EXPEDICION;FECHA_EXPEDICION;Program_Insc
+200092564;Pineda Orozco;Alejandro;Jose;22/09/1998;C;CC;1020835888;Bogot� D.C.;6/10/2016;Ingenieria civil
+200094550;Arce Herrera;Diana;Paola;8/12/1988;C;CC;1047406339;Cartagena;1/03/2007;Filosofia y Humanidades
+200087671;Galvan Rincon;Natalia;Rocio;26/09/1998;C;CC;1140899442;Barranquilla;14/10/2016;Negocios Internacionales
+200138138;Diaz Morales;Janella;Stefany;31/01/2002;C;TI;1002157707;Barranquilla;8/04/2010;Psicologia
+200138055;Fontalvo Brochado;Maria;Fernanda;31/08/2001;C;TI;1001945082;Sabanagrande;27/10/2016;Ingenieria Industrial
+200139302;Oliveros Hoyos;Andrea;Valentina;15/11/2001;C;TI;1193211447;Soledad;23/03/2017;Comunicacion social
+200135714;Colpas Conde;Rafael;Jose;21/02/2002;C;TI;1002157777;Barranquilla;22/06/2017;Ingenieria Industrial
+200137042;Perez Mendez;Adriana;Margarita;5/04/2001;C;TI;1001946966;Barranquilla;6/07/2015;Dise�o Grafico
+200134406;Ponce Betancur;Jose;David;13/08/2001;C;TI;1004350208;Santa Marta;25/01/2011;Geologia
+200137106;Bustos Ojeda;Yeison;Adolfo;1/03/2002;C;TI;1007315405;Cartagena;12/10/2016;Derecho
+200135654;Puello Duran;Maria;Sofia;31/10/2000;C;TI;1193516724;Cartagena;8/10/2015;Lenguas Modernas y Cultura
+200134537;Salazar Arrieta;Jorge;Ernesto;25/04/2001;C;TI;1002244491;Cartagena;18/03/2016;Ingenieria de sistemas
+200137008;Ricaurte Baron;Amalin;;24/07/2001;C;TI;1001976227;Cartagena;4/08/2009;Derecho
+200134456;Sanchez Padilla;Luis;Fernando;28/08/2001;C;TI;1001821815;Soledad;20/12/2016;Geologia
+200134228;Lara Schlegel;Andrea;Cristina;6/08/2001;C;TI;1001782675;Barranquilla;11/11/2015;Psicologia
+200136974;Cetarez Martinez;Sharon;Daly;19/01/2002;C;TI;1002157869;Barranquilla;15/04/2011;Ingenieria Industrial
+200136628;Alvarez Villadiego;Estefania;;17/12/2001;C;TI;1003125698;Valledupar;9/12/2016;Ingenieria civil
+200135707;Ariza Vergara;Carlos;Fernando;6/07/2001;C;TI;1192798657;Valledupar;15/02/2017;Ingenieria civil
+200136762;Fernandez Rodriguez;Maria;Camila;4/10/2001;C;TI;1003383587;Valledupar;12/10/2016;Ingenieria civil
+200135592;Pe�aloza Daguer;Luis;Alberto;14/05/2002;C;TI;1003431528;Monteria;3/11/2016;Ingenieria civil
+200134567;Vargas Velasquez;Gherard;Paul;20/06/2002;C;TI;1004358114;Cienaga;3/12/2012;Ingenieria de sistemas
+200097331;Gonzalez Vega;Juan;Pablo;14/02/2002;C;TI;1002029909;Barranquilla;13/07/2016;Ciencia Politica y Gobierno
+200097370;Carretero Marenco;Vanesa;Paola;9/06/2001;C;TI;1002161920;Barranquilla;5/09/2016;Contaduria Publica
+200097321;Fuentes Sanchez;Natalia;;11/10/2001;C;TI;1004162138;Barranquilla;18/12/2015;Administracion de Empresas
+200133930;De Avila Perez;Cristobal;Jose;22/02/2001;C;TI;1001779677;Barranquilla;12/05/2015;Negocios Internacionales
+200137977;Mercado Castro;Cristian;David;27/07/2001;C;TI;1007890564;Barranquilla;30/05/2017;Contaduria Publica
+200138289;Duque Polo;Maria;Jose;28/12/2002;C;TI;1002097572;Sabanagrande;28/01/2011;Geologia
+200137946;Cespedes Jimenez;Camilo;Andres;9/11/2001;C;TI;1003231857;Valledupar;16/04/2018;Ingenieria de sistemas
+200138244;Torres Viloria;Luisa;Fernanda;2/02/2002;C;TI;1001920462;Barranquilla;13/05/2016;Contaduria Publica
+200138226;Romero Aguilera;Jesus;Daniel;2/12/2002;C;TI;1193113148;Corozal;17/09/2010;Ingenieria Mecanica
+200138323;Vides Via�a;Maryelis;;19/10/2001;C;TI;1002132626;Barranquilla;9/02/2018;Ingenieria Industrial
+200139377;Miranda Lozano;Juan;David De Jesus;16/06/2001;C;TI;1001825087;Barranquilla;4/08/2011;Comunicacion social
+200134678;Correa Jimenez;Sebastian;Jose;29/12/2000;C;TI;1193211198;Santa Marta;20/01/2017;Economia
+200137475;Becerra Cruz;Arnold;Steven;6/03/2002;C;TI;1001946579;Barranquilla;12/07/2016;Ingenieria Mecanica
+200137233;Vizcaino Lara;Jaime;Andres;23/08/2000;C;TI;1001779572;Barranquilla;9/02/2015;Administracion de Empresas
+200135216;Lee Perneth;Valentina;;10/01/2002;C;TI;1001915479;Barranquilla;11/10/2010;Ingenieria Mecanica
+200135125;Meneses Avila;Juan;Carlos;6/04/2000;C;CC;1002152732;Medellin;3/05/2018;Ingenieria de sistemas
+200137497;Gieseken Perez;Christopher;;8/02/1999;C;CC;1140904061;Barranquilla;16/08/2017;Arquitectura
+200134310;Gonzalez Izaguirre;Natalia;Isabel;12/04/2002;C;TI;1003317860;Valledupar;14/12/2016;Medicina
+200136779;Rincon Robayo;Daniela;;11/01/2002;C;TI;1001996056;Barranquilla;9/07/2012;Derecho
+200066809;Antequera Rocha;Nicolle;Andrea;9/10/2001;C;TI;1001945021;Barranquilla;6/01/2016;Ingenieria Electronica
+200134335;Molina Angarita;Marianella;;11/09/2001;C;TI;1193520263;Barranquilla;6/04/2016;Medicina
+200134823;Adachi Rangel;Luisa;Fernanda;6/07/2000;C;CC;1001780158;Barranquilla;13/07/2018;Psicologia
+200137322;Navarro Fontalvo;Maria;Cristina;16/03/2002;C;TI;1001824659;Barranquilla;20/04/2016;Psicologia
+200058193;Mendoza Mercado;Andrea;Carolina;13/09/2001;C;TI;1001944172;Barranquilla;15/02/2017;Dise�o Grafico
+200058198;Sierra Diaz;Maria;Isabel;22/11/2001;C;TI;1006889992;Maicao;28/01/2015;Psicologia
+200135722;Jimenez Silvera;Valeria;Andrea;4/06/2002;C;TI;1193570984;Barranquilla;4/08/2016;Ingenieria Industrial
+200135378;Torres Castro;Edward;Alejandro;27/12/2001;C;TI;1003233795;El Banco;2/03/2012;Derecho
+200138335;Contreras Contreras;Marco;Jose;24/10/2001;C;TI;1002000687;Curumani;13/01/2016;Derecho
+200138314;Pizarro De Moya;Daniel;Alberto;1/03/2002;C;TI;1001825223;Sabanalarga;2/06/2017;Ingenieria de sistemas
+200137967;Gomez Casseres Peralta;Fredys;Andres;24/02/2002;C;TI;1005661635;Sincelejo;28/01/2010;Ingenieria Industrial
+200136650;Duarte Gutierrez;Alejandra;;28/07/2001;C;TI;1004926342;Barranquilla;25/02/2016;Comunicacion social
+200137335;Osorio Salcedo;Natalia;Margarita;23/01/2002;C;TI;1002131640;Barranquilla;20/01/2010;Ingenieria de sistemas
+200137421;Arcieri Mercado;Nicolle;Andrea;5/12/2001;C;TI;1002158578;Barranquilla;11/07/2017;Psicologia
+200134586;Alcorro Gonzalez;Samuel;Elias;26/09/2001;C;TI;1001995320;Barranquilla;12/11/2016;Arquitectura
+200136326;Salcedo Peri�an;Samuel;Jose;22/06/1999;C;CC;1235045844;Cartagena;12/10/2017;Ingenieria Mecanica
+200061224;Mora Pallares;Adriana;Isabella;9/11/2001;C;TI;1002208840;Barranquilla;27/05/2016;Administracion de Empresas
+200066823;Molinares Benavides;Maria;Alejandra;27/09/2001;C;TI;1001821592;Barranquilla;3/11/2009;Ingenieria Industrial
+200082252;Oquendo Hernandez;Mariana;;7/08/2002;C;TI;1007176431;Barranquilla;11/07/2018;Ingenieria de sistemas
+200058164;Carcamo Fontalvo;Natalia;;31/08/2001;C;TI;1001996011;Barranquilla;21/06/2018;Administracion de Empresas
+200051284;Ferrer Plata;Valeria;;11/03/2002;C;TI;1001825471;Soledad;5/12/2017;Comunicacion social
+200134296;Esguerra Mu�oz;Daniela;Isabel;10/06/2001;C;TI;1001825506;Barranquilla;9/07/2016;Derecho
+200058173;Mart�nez Calle;Carol;Sofia;16/11/2001;C;TI;1001995813;Barranquilla;3/02/2016;Administracion de Empresas
+200058161;"Barcenas	 Castro";"Saray	";Alejandra;23/10/2001;C;TI;1002209995;Barranquilla;5/01/2016;Ingenieria Industrial
+200058179;Uribe Algarin;Maria;Camila;11/10/2001;C;TI;1002212227;Barranquilla;1/02/2017;Lic. en Pedagogia Infantil 4a
+200130247;Rodriguez Bolivar;Valentina;;29/08/2000;C;TI;1002241248;Cartagena;29/09/2017;Comunicacion social
+200135260;Jimenez Natera;Nicolle;Hayeth;17/01/2002;C;TI;1001915495;Barranquilla;15/06/2016;Negocios Internacionales
+200135094;Fontalvo Arenas;Angello;Alberto;28/01/2002;C;TI;1002157385;Barranquilla;25/05/2016;Ingenieria Industrial
+200137531;Najera Polo;Rosa;Maria;30/11/2001;C;TI;1001915627;Barranquilla;16/12/2015;Psicologia
+200136454;Mulett Olivo;Sofia;Isabel De Fatima;13/05/1999;C;CC;1047508365;Cartagena;15/05/2017;Dise�o Grafico
+200134752;Torregroza Valencia;Maria;De Los Angeles;29/08/2002;C;TI;1001917172;Barranquilla;1/12/2016;Administracion de Empresas
+200136481;Garcia Gutierrez;Maria;Angelica;10/07/2002;C;TI;1007313474;Cartagena;23/08/2017;Negocios Internacionales
+200138057;Garcia Arias;Rodrigo;Alberto;26/11/2001;C;TI;1002158545;Barranquilla;21/11/2013;Administracion de Empresas
+200138052;Fernandez Mendoza;Camila;Andrea;14/05/2002;C;TI;1006615006;Riohacha;7/07/2010;Administracion de Empresas
+200138409;Solano Silva;Sofia;;18/05/2001;C;TI;1005464354;Barranquilla;17/03/2016;Psicologia
+200138110;Molina Londo�o;Juan;Carlos;6/04/2002;C;TI;1002160043;Barranquilla;29/06/2016;Comunicacion social
+200138091;Jimenez Olivares;Sergio;Andres;17/09/2001;C;TI;1001856831;Barranquilla;3/01/2017;Odontologia
+200138037;Castro Osorio;Valentina;;17/12/2001;C;CC;1005663087;Galapa;30/05/2009;Comunicacion social
+200138053;Fernandez Tamara;Daniela;Marcela;10/02/2003;C;TI;1002092922;Barranquilla;17/01/2018;Psicologia
+200138382;Ortega Carvajal;Valentina;;21/01/2002;C;TI;1005280198;Bucaramanga;11/01/2012;Derecho
+200134548;Fragozo Lara;Jose;Luis;20/12/2000;C;TI;1001912076;Barranquilla;18/02/2015;Comunicacion social
+200138046;De Castro Narvaez;Jorge;Ernesto;19/05/2002;C;TI;1001942596;Bogot� D.C.;11/10/2010;Geologia
+200136378;Visbal Salcedo;Sergio;Daniel;16/03/2001;C;TI;1001999917;Barranquilla;8/07/2013;Ingenieria civil
+200136004;Correa Movilla;Valeria;Lucia;10/09/2001;C;TI;1001856858;Barranquilla;2/03/2016;Contaduria Publica
+200137174;Meza Gomez;Luis;Felipe;27/11/2001;C;TI;1004353929;Santa Marta;29/12/2015;Arquitectura
+200135245;Barrios Diaz;Jose;Alejandro;4/05/2001;C;TI;1004347431;Santa Marta;18/06/2015;Derecho
+200078832;Schmalbach De la Cruz;Giselle;Paola;12/10/2001;C;TI;1001995742;Barranquilla;3/02/2016;Ingenieria Industrial
+200134273;Araujo Perez;Alejandra;Milena;24/12/2000;C;TI;1192765660;Barranquilla;26/06/2015;Psicologia
+200077508;Gonzalez Solano;Laura;Mariana;8/03/2002;C;TI;1000285965;Barranquilla;3/12/2009;Ingenieria de sistemas
+200053033;Estarita Gaviria;Maria;Jose;30/08/2002;C;TI;1002157193;Barranquilla;19/09/2017;Arquitectura
+200058211;Bernal Herrera;Natalia;Andrea;16/08/2001;C;TI;1000940274;Puerto Colombia;23/11/2015;Psicologia
+200058215;Diaz Colina;Maria;Jose;19/03/2002;C;TI;1001824861;Barranquilla;27/12/2016;Comunicacion social
+200058209;Alvarez Benedetti;Vanessa;;17/05/2002;C;TI;1002210956;Barranquilla;26/12/2017;Contaduria Publica
+200117480;Plata Palomino;Jensy;;29/09/2001;C;TI;1001289267;Barranquilla;18/04/2018;Comunicacion social
+200134930;Rivera Castillo;Angel;Eduardo;5/09/2001;C;TI;1002211596;Soledad;23/02/2016;Ingenieria de sistemas
+200138213;Ramos Peralta;Valentina;;25/03/2002;C;TI;1001825665;Soledad;29/03/2017;Contaduria Publica
+200138197;Orozco Ramirez;Mario;Edgardo;20/12/2001;C;TI;1002155911;Barranquilla;4/05/2018;Economia
+200137947;Chamorro De La Rosa;Kendry;Jafet;29/12/2001;C;TI;1000254582;Malambo;17/02/2016;Medicina
+200080235;Rodriguez Jinete;Sara;Cecilia;8/10/2001;C;TI;1001856788;Soledad;11/04/2018;Enfermeria
+200138163;Nordmann Baena;Juan;Diego;30/10/2001;C;TI;1002191561;Cartagena;25/02/2010;Administracion de Empresas
+200138117;Moreno Pedroza;Natalia;Margarita;4/11/2001;C;TI;1001995585;Barranquilla;24/07/2018;Ingenieria Industrial
+200114129;Bola�os Chaparro;Andres;Juan;31/10/2000;C;TI;1002160526;Barranquilla;21/12/2016;
+200137359;Sanjuanelo Andrade;Carlos;Mario;25/09/2001;C;TI;1193231403;Fundacion;18/06/2018;Derecho
+200136971;Baez Parejo;Alejandra;Camila;6/05/2002;C;TI;1004376520;Santa Marta;21/06/2018;Ingenier�a civil
+200042696;Gonzalez Herrera;Miguel;Esteban;19/07/2001;C;TI;1001835005;Santa Marta;19/08/2016;Ingenier�a Mec�nica
+200134281;Benavides Mu�oz;Daniela;;20/12/2001;C;TI;1003713559;Monteria;19/12/2017;Medicina
+200136922;Carvajal Orozco;Miguel;Enrique;2/03/2001;C;TI;1000474365;Cartagena;20/01/2016;Derecho
+200134436;Mu�oz Molina;Maria;Catalina;18/06/2002;C;TI;1192744117;Bosconia;8/11/2010;Psicolog�a
+200136726;Diaz Real;Dana;Carolina;20/02/2002;C;TI;1001853106;Barranquilla;20/02/2017;Dise�o Industrial
+200136059;Recio Baeza;Natalia;Margarita;8/08/2001;C;TI;1002158582;Barranquilla;12/01/2017;Econom�a
+200077497;Ni�o Silva;Juliana;Maria;5/03/2001;C;TI;1193123206;Barranquilla;28/12/2015;Psicolog�a
+200134282;Borelly Manjarres;Valerie;;20/12/2000;C;TI;1192768153;Barranquilla;24/12/2014;Derecho
+200135486;De La Hoz Pacheco;Valeria;;15/01/2002;C;TI;1192727487;Barranquilla;9/10/2012;Negocios Internacionales
+200134673;Benedetti Ibarra;Brenda;Sofia;8/11/2000;C;TI;1192742967;Cartagena;12/07/2018;Psicolog�a
+200058170;Grau Caballero;Daniela;Patricia;23/02/2002;C;TI;1001824859;Barranquilla;2/05/2018;Comunicaci�n social
+200058184;Bermejo Henriquez;Francesca;;14/02/2002;C;TI;1002157657;Barranquilla;8/03/2010;Derecho
+200129548;Torres Escorcia;Juan;Camilo;19/05/2000;C;TI;1010096551;Barranquilla;14/09/2018;Econom�a
+200135511;Benitez Gonzalez;Moises;David;14/07/2002;C;TI;1005627969;Magangue;31/07/2018;Administraci�n de Empresas
+200083183;Sanchez Puccini;Andres;Felipe;1/12/1999;C;CC;1042464121;Soledad;5/12/2017;Dise�o Gr�fico
+200138387;Palacio Vallejo;Diego;;8/02/1999;C;CC;1102886102;Sincelejo;9/02/2017;Negocios Internacionales
+200137940;Bustamante Eljadue;Navid;;3/12/2001;C;TI;1002421189;Mompos;18/01/2016;Ingenier�a civil
+200114132;Paternina Lapeira;Carlos;Arturo;24/10/2000;C;TI;1002153093;Barranquilla;26/09/2012;Ingenier�a El�ctrica
+200083467;Salazar Tovio;German;Andres;25/10/2001;C;TI;1002209797;Barranquilla;21/11/2017;Ingenier�a Mec�nica
+200094321;Orozco Niebles;Aaron;David;20/05/2002;C;TI;1002155360;Barranquilla;27/05/2016;Ingenier�a Mec�nica
+200132973;Alba Arteta;Mariana;Carolina;4/06/2000;C;CC;1002011548;Juan De Acosta;21/06/2018;Psicolog�a
+200137123;Chinchilla Velez;Maria;Claudia;17/10/2000;C;TI;1193477987;Santa Marta;18/10/2018;Filosof�a y Humanidades
+200137039;Navarro Chamucero;Matthieu;;19/09/2001;C;TI;1001821738;Barranquilla;4/07/2013;Ingenier�a Electr�nica
+200134165;Pertuz Caballero;Valentina;;21/08/1999;C;CC;1047362833;Santo Tom�s;25/08/2017;Psicolog�a
+200134155;Marriaga Calderon;Danna;Lyng;29/08/2001;C;TI;1001856706;Barranquilla;26/04/2017;Psicolog�a
+200057446;Rodriguez Coronado;Andrea;Carolina;3/01/2002;C;TI;1001870169;Barranquilla;6/07/2016;Ingenier�a Industrial
+200134979;Geney Caro;Carlos;David;24/04/2002;C;TI;1003262407;Sampues;10/08/2017;Ingenier�a civil
+200137275;Guerra Garay;Camilo;Andres;31/01/2002;C;TI;1002028427;Barranquilla;15/05/2018;Matem�ticas
+200071120;Medina Davila;Jeiner;;6/08/2001;C;TI;1006745803;Maicao;18/08/2015;Ingenier�a Industrial
+200138062;Gomez Betancourt;Laura;Andrea;30/12/1999;C;CC;1042464418;Soledad;3/01/2018;Negocios Internacionales
+200138040;Cervantes Fuentes;Ana;Isabel;20/09/2000;C;CC;1193371825;Barranquilla;22/10/2018;Negocios Internacionales
+200138265;Marin De Leon;Miriam;Elisa;16/02/2001;C;TI;1002000017;Barranquilla;12/01/2017;Administraci�n de Empresas
+200138093;Jimenez Pedreros;Laura;Valentina;22/06/2001;C;TI;1001332118;Turbaco;12/09/2016;Medicina
+200137939;Bravo Orozco;Fiorella;;19/01/2001;C;TI;1006790078;Valledupar;5/01/2016;Comunicaci�n social
+200138035;Castrillon Londo�o;Juan;Eduardo;31/08/2001;C;TI;1000539142;Concordia;10/12/2015;Arquitectura
+200139365;Villarreal Zu�iga;Camilo;Andres;18/09/2001;C;TI;1002029758;Soledad;6/11/2015;Ingenier�a Mec�nica
+200135674;Bancelin Zuluaga;Andre;;27/10/2001;C;TI;1002013230;Puerto Colombia;11/04/2018;Ingenier�a civil
+200137454;Vega Alvear;Raul;Fernando;25/06/2002;C;TI;1007230165;Cartagena;19/04/2018;Medicina
+200136269;Aguilar Cadavid;Juan;Carlos;15/01/2001;C;TI;1000646360;Barranquilla;19/03/2015;Ingenier�a de sistemas
+200134270;Amador Sanabria;Luisa;Fernanda;22/03/2002;C;TI;1002195747;Barranquilla;4/09/2009;Ingenier�a Industrial
+200077100;Martinez Franco;Valeria;Lucia;5/06/2001;C;TI;1002000075;Barranquilla;19/06/2015;Lenguas Modernas y Cultura
+200136080;Mejia Solano;Jaime;Luis;15/06/2001;C;TI;1193558236;Barrancas;13/02/2017;Derecho
+200136858;Rocha Cassiani;Ronaldo;David;26/08/1999;C;CC;1045761067;Barranquilla;19/09/2017;Lenguas Modernas y Cultura
+200131915;Vasileff Pinedo;Jorge;Radi;16/12/1999;C;CC;1010050758;Puerto Colombia;3/01/2018;Derecho
+200134141;Consuegra Marenco;Ariana;Marcela;22/03/2002;C;TI;1007118555;Soledad;23/12/2016;Negocios Internacionales
+200066007;Olmos Acosta;Alberto;Luis;8/03/2001;C;TI;1001852571;Puerto Colombia;10/12/2015;Contadur�a P�blica
+200135191;Grass Blanco;Rodrigo;Andres;16/11/1999;C;CC;1140905337;Barranquilla;5/02/2018;Ingenier�a de sistemas
+200137541;Ortega Montes;Sharin;Yissell;22/03/2002;C;TI;1002468367;San Jacinto;30/11/2016;Ingenier�a Mec�nica
+200138362;Hernandez Mora;Juan;Pablo;26/08/2000;C;CC;1193377776;Barranquilla;30/08/2018;Filosof�a y Humanidades
+200137951;Corredor Ramirez;Juan;Sebastian;5/09/2000;C;TI;1006856381;Barranquilla;9/01/2015;Arquitectura
+200138384;Ospino Caballero;Maria;Cleofe;2/08/2001;C;TI;1001934802;Cartagena;21/12/2016;Arquitectura
+200138152;Luna Arenilla;Lina;Margarita;20/06/2000;C;CC;1007138795;Cartagena;28/06/2018;M�sica
+200065997;Carrillo Casadiego;Yurlianys;Patricia;27/04/2002;C;TI;1007118726;Barranquilla;26/07/2016;Negocios Internacionales
+200138089;Jimenez Fernandez;Sharim;;19/04/2001;C;TI;1001888815;Barranquilla;29/04/2015;Psicolog�a
+200139310;Rapalino Rueda;Alejandra;;24/12/2001;C;TI;1001915601;Soledad;13/01/2016;Lic. en Pedagog�a Infantil 4a
+200134728;Heredia Barbosa;Juliana;;8/03/2002;C;TI;1003189764;Medellin;18/05/2016;Comunicaci�n social
+200134603;Ballestas De Leon;Maria;Carolina;11/11/2001;C;TI;1001969692;Cartagena;7/10/2016;Comunicaci�n social
+200137287;Jimenez Rodriguez;Andres;Felipe;28/07/2000;C;CC;1001779834;Cartagena;8/08/2018;Derecho
+200137140;Esmeral Geraldino;Jesus;David;8/08/2002;C;TI;1005627853;Corozal;23/12/2016;Ingenier�a Mec�nica
+200134297;Fernandez Villegas;Juan;Manuel;19/09/2000;C;TI;1192778003;Valledupar;24/02/2015;Medicina
+200132017;Maury Hutchinson;Henry;David;21/05/2000;C;CC;1007016406;Barranquilla;29/06/2018;M�sica
+200137270;Estrada Tapia;Rosaura;;12/12/2001;C;TI;1002468196;San Jacinto;2/06/2016;Ciencia Pol�tica y Gobierno
+200137150;Guete Maldonado;Freddy;David;10/05/2001;C;TI;1193549966;Barranquilla;16/07/2018;Ingenier�a de sistemas
+200134869;Torres Ortega;Sofia;Juliana;12/11/2001;C;TI;1001997731;Barranquilla;5/01/2016;Psicolog�a
+200134689;Gualtero Casta�eda;Estefania;;30/09/2001;C;TI;1000185783;Barranquilla;15/10/2015;Comunicaci�n social
+200138123;Alquichire Silvera;Sarai;;31/01/2002;C;TI;1001825039;Barranquilla;30/01/2010;Lenguas Modernas y Cultura
+200137948;Cobas De Leon;Sharik;Alejandra;23/09/2001;C;TI;1001856916;Barranquilla;11/05/2016;Derecho
+200138234;Sierra Maury;Daniela;;17/02/2001;C;TI;1002024269;Barranquilla;20/02/2015;Relaciones Internacionales
+200135280;Sanchez Garces;Sara;Paola;25/07/2001;C;TI;1001878956;Barranquilla;13/11/2015;Dise�o Gr�fico
+200137428;Cantillo Navarro;Laury;Nayeth;13/10/2001;C;TI;1002132750;Barranquilla;22/02/2016;Comunicaci�n social
+200137429;Caro Valle;Juan;Sebastian;27/10/2000;C;TI;1007368032;Cartagena;31/10/2016;Derecho
+200135369;Paternina Parra;Luis;Felipe;22/05/2002;C;TI;1005640619;Corozal;16/02/2012;Ingenier�a Industrial
+200134631;Torrente Ortiz;Isabella;;8/08/2001;C;TI;1005570077;Corozal;5/02/2014;Geolog�a
+200134891;Due�as Assia;Sebastian;David;13/09/2001;C;TI;1005582542;Corozal;12/10/2017;Medicina
+200136656;Garcia Molina;Maria;Jose;24/05/2002;C;TI;1002157201;Barranquilla;24/06/2016;Arquitectura
+200138309;Mendoza Martinez;Jessica;Alejandra;17/06/2002;C;TI;1193041411;Barranquilla;18/01/2017;Enfermer�a
+200096702;Martinez Quintero;Nicolle;Paola;7/01/2002;C;TI;1007764023;Magangue;26/10/2012;Medicina
+200135581;Martinez Fandi�o;Diego;Rafael;10/09/2001;C;TI;1007211066;Cartagena;2/09/2009;Medicina
+200136752;Carrasquilla Perez;Diego;Andres;21/04/2001;C;TI;1002308528;Cartagena;25/04/2016;Derecho
+200132170;Vega Carazo;Isaac;David;6/10/1999;C;CC;1047510718;Cartagena;30/10/2017;Ingenier�a civil
+200132103;Urrego Palacio;Felipe;;4/12/1999;C;CC;1234097362;Barranquilla;7/12/2017;Psicolog�a
+200137019;Caballero Andrade;Gabriela;;29/10/2001;C;TI;1002191611;Cartagena;5/04/2018;Econom�a
+200134318;Holguin Camacho;Maria;Camila;3/09/2001;C;TI;1193067219;Cartagena;13/10/2009;Odontolog�a
+200130277;Salcedo Correa;Maria;Camila;10/11/2000;C;TI;1000456201;Santa Marta;16/03/2015;Ciencia Pol�tica y Gobierno
+200138188;Suarez Carrillo;Jesus;Enrique;7/06/2002;C;TI;1002008417;Suan;31/05/2017;Geolog�a
+200138080;Hernandez Issa;Andres;Atif;17/02/2001;C;TI;1192905862;Maicao;24/07/2017;Ingenier�a civil
+200138380;Oliveros Galeano;Juan;Andres;14/01/2002;C;TI;1001853521;Santa Lucia;26/02/2016;Ingenier�a Mec�nica
+200138119;Mu�oz Sepulveda;Abel;David;22/03/2002;C;TI;1002213752;Barranquilla;8/03/2017;Ingenier�a Mec�nica
+200138100;Martinez Ponzon;Danna;Lucia;18/03/2002;C;TI;1001824876;Barranquilla;21/09/2017;Ingenier�a Industrial
+200138298;Camero Amador;Daniela;;1/06/2001;C;TI;1002161896;Barranquilla;28/12/2016;Enfermer�a
+200138416;Valencia Beltran;Alejandro;;2/03/2002;C;TI;1000413562;Medellin;27/11/2009;Comunicaci�n social
+200135625;Fox Ayola;Santiago;;17/07/2001;C;TI;1002241447;Cartagena;2/05/2011;Econom�a
+200135419;Dimitrio Garcia;Juan;Pablo;15/05/2001;C;TI;1007856597;Cartagena;26/02/2018;Medicina
+200135828;Pacheco Mendoza;Maria;Fernanda;21/08/2000;C;CC;1007515268;Cartagena;9/09/2018;Psicolog�a
+200135286;Severini Martinez;Valeria;;6/07/2001;C;TI;1001995425;Barranquilla;28/10/2008;Arquitectura
+200116512;Hernandez Miranda;Paula;Andrea;24/01/2002;C;TI;1001879814;Barranquilla;17/11/2016;Derecho
+200136383;Casta�o Lozada;Mariana;;9/02/2002;C;TI;1001881811;Soledad;24/09/2014;Enfermer�a
+200138420;Zuniga Figueroa;Juan;Pablo;17/11/2001;C;TI;1001899959;Barranquilla;8/11/2016;Ingenier�a Industrial
+200137960;Diaz Tamara;Violeta;;14/07/2002;C;TI;1001916842;Barranquilla;17/12/2016;Comunicaci�n social
+200138121;Abello Espinoza;Laura;Marcela;24/12/2001;C;TI;1002026865;Soledad;6/04/2018;Negocios Internacionales
+200138210;Quintero Llanos;Joseph;David;15/06/2001;C;TI;1001940540;Barranquilla;13/07/2016;Administraci�n de Empresas
+200138422;Buitrago Gutierrez;Maria;Jose;18/06/1999;C;CC;1140902950;Barranquilla;20/06/2017;Comunicaci�n social
+200138287;Duarte  Orozco;Diego;Andres;16/10/2002;C;TI;1001979639;Cartagena;7/09/2012;Ingenier�a civil
+200138125;Alvarez Hernandez;Jairo;Antonio;16/11/2001;C;TI;1001995764;Cartagena;11/01/2018;Medicina
+200137982;Polo Castilla;Jhairlin;Nikole;22/04/1999;C;CC;1127612943;Barranquilla;25/04/2017;Lenguas Modernas y Cultura
+200137296;Doria Loaiza;Natalia;Marcela;2/05/2001;C;TI;1002000223;Barranquilla;23/01/2016;Arquitectura
+200136048;Lopez Diaz;Nayra;Catalina;30/01/2001;C;TI;1002212715;Barranquilla;13/08/2014;Negocios Internacionales
+200134294;De La Ossa Robles;Daniel;David;29/11/2002;C;TI;1003236968;Valledupar;9/05/2018;Negocios Internacionales
+200137417;Altamar Carrascal;Leidy;Milena;2/02/2002;C;TI;1005661665;Barranquilla;4/03/2011;Psicolog�a
+200137280;Hernandez Borre;Maira;Alexandra;29/11/1999;C;CC;1002256306;Soledad;2/02/2018;Psicolog�a
+200136175;Rincon Larotta;Carlos;Alberto;2/10/2001;C;TI;1002191219;Cartagena;14/09/2017;Derecho
+200138120;Navarro Jauregui;Natalia;Cecilia;14/11/2001;C;TI;1004461731;Cienaga;9/06/2014;Ingenier�a Industrial
+200138306;Matute Lopez;Jhonny;Alexander;27/08/2001;C;TI;1002158692;Barranquilla;23/09/2015;Ingenier�a de sistemas
+200138418;Velasquez Martinez;Alejandro;;6/11/2000;C;TI;1007710881;Cartagena;28/06/2012;Medicina
+200138048;De La Ossa Gonzalez;Camila;;7/07/2002;C;TI;1003083685;Montelibano;26/04/2017;Geolog�a
+200137526;Monroy Martinez;Brenda;Saray;1/12/2001;C;TI;1002211270;Barranquilla;26/03/2018;Lenguas Modernas y Cultura
+200067755;Villabon Urrea;Daniela;;19/10/2001;C;TI;1221715495;Barranquilla;23/09/2013;
+200139354;Ortiz Osorio;Victor;Andres;19/11/2000;C;TI;1192795492;Barranquilla;12/12/2014;Ingenier�a Mec�nica
+200139323;Ahumada Lopez;Juan;David;6/09/2001;C;TI;1001821787;Barranquilla;29/03/2016;Derecho
+200135139;Ramirez Meza;Victoria;Isabel;7/06/2001;C;TI;1001856513;Barranquilla;14/11/2008;Econom�a
+200136460;Pe�aloza Duran;Valentina;Paola;10/11/2001;C;TI;1002160182;Puerto Colombia;5/01/2011;Lic. en Pedagog�a Infantil 4a
+200134293;De Avila Navarrete;Camila;Andrea;7/12/2001;C;TI;1002194504;Turbaco;28/10/2016;Relaciones Internacionales
+200136049;Lopez Rodriguez;Joel;David;29/10/2002;C;TI;1002160535;Malambo;8/11/2016;Contadur�a P�blica
+200138207;Pinedo Chamorro;Daniela;;7/01/2001;C;TI;1193149200;Barranquilla;11/09/2012;Negocios Internacionales
+200138294;Acu�a Recio;Ilanys;Julieth;22/06/2001;C;TI;1002024794;Barranquilla;20/02/2017;Negocios Internacionales
+200138406;Santiz Valera;Sergio;Andres;9/12/2000;C;TI;1193225516;Barranquilla;23/01/2015;Derecho
+200138316;Rico Lugo;Valentina;;17/07/2003;C;TI;1193121473;Sincelejo;9/07/2018;Dise�o Industrial
+200138082;Hernandez Ortiz;Antonio;Rafael;28/08/2002;C;TI;1001993924;Barranquilla;16/01/2012;Relaciones Internacionales
+200138045;Cuello Palacio;Juan;Pablo;6/09/2000;C;CC;1003241937;Barranquilla;1/10/2018;Ingenier�a Electr�nica
+200089236;Carval Fernandez;Liz;Yaneth;15/10/1999;C;CC;1050040886;San Jacinto;26/10/2017;Psicolog�a
+200049439;Gavilanes Vega;Jonny;Alejandro;22/09/2001;C;TI;1006454737;Barranquilla;14/12/2015;Negocios Internacionales
+200137013;Acu�a Pacheco;Leonardo;Mario;16/04/2002;C;TI;1001882351;Barranquilla;7/05/2018;Ingenier�a civil
+200135138;Pulgarin Cardenas;Mariana;;27/02/2001;C;TI;1001999631;Barranquilla;30/03/2015;Negocios Internacionales
+200136162;Bustamante Caballero;Laura;Isabel;25/12/2001;C;TI;1002026924;Barranquilla;8/04/2016;Ingenier�a Industrial
+200135701;Salcedo Mestra;Felipe;Andres;1/05/2001;C;TI;1002212158;Barranquilla;21/12/2015;Administraci�n de Empresas
+200136181;Ujueta Fonseca;Marcela;Carolina;9/01/2002;C;TI;1001857098;Barranquilla;1/12/2016;Medicina
+200136973;Cadena Trujillo;Paula;Andrea;6/12/2001;C;TI;1193561912;Barranquilla;20/01/2010;Psicolog�a
+200134237;Miserque Salgado;Paula;Andrea;4/01/2003;C;TI;1193114115;Corozal;8/07/2018;Ingenier�a Industrial
+200134156;Mazorra Silva;Paula;;18/02/2002;C;TI;1006739328;Cartagena;22/03/2016;Medicina
+200136607;Sanchez Pernett;Jaider;Adib;7/11/2001;C;TI;1001900214;Cartagena;18/05/2018;Ingenier�a El�ctrica
+200097353;Campo Gomez;Karoll;Andrea;15/10/2001;C;TI;1001995700;Barranquilla;26/03/2016;Medicina
+200137351;Rodriguez Bueno;Jesus;David;27/10/2000;C;TI;1192764483;Barranquilla;10/11/2014;Ingenier�a Mec�nica
+200138200;Ortiz Camelo;Valentina;Yulieth;24/04/2002;C;TI;1001818814;Barranquilla;30/11/2016;Ingenier�a Industrial
+200138249;Villa Ealo;Carolina;Isabel;20/07/2002;C;TI;1002210887;Galapa;22/05/2018;Geolog�a
+200138102;Martinez Sanchez;Edwin;Fabian;5/12/2001;C;TI;1001824860;Barranquilla;13/04/2016;Ingenier�a Mec�nica
+200138009;Arias Perez;Ernesto;Jose;12/07/2000;C;CC;1010111174;Barranquilla;13/07/2018;Administraci�n de Empresas
+200139336;Garcia Jimenez;Alfredo;Manuel;29/10/1999;C;CC;1002499551;Magangue;17/11/2017;Contadur�a P�blica
+200136902;Rivera Barraza;Yuliana;Marcela;12/11/2001;C;TI;1002159744;Barranquilla;18/08/2016;Dise�o Industrial
+200134193;Florez De Moya;Laura;Maria;14/01/2001;C;TI;1192765634;Barranquilla;9/12/2015;Econom�a
+200137245;Barrios Tovar;Leider;Enrique;1/03/2002;C;TI;1005661687;Barranquilla;1/07/2016;Lenguas Modernas y Cultura
+200135417;Cervera Prasca;Enrique;Mario;18/01/2002;C;TI;1001996533;Barranquilla;22/11/2016;Ingenier�a El�ctrica
+200058227;Tapia Hernandez;Andrea;Carolina;2/06/2002;C;TI;1001825671;Barranquilla;15/11/2016;Medicina
+200134994;Rebage Arenas;Maria;Angelica;17/12/2001;C;TI;1002209790;Barranquilla;22/11/2016;Lenguas Modernas y Cultura
+200135573;Gomez Parra;Alejandra;;27/11/2001;C;TI;1001920034;Barranquilla;24/01/2014;Ingenier�a Mec�nica
+200136072;Espinosa Vargas;Alejandra;;13/11/2001;C;TI;1002158559;Barranquilla;2/12/2010;Negocios Internacionales
+200134348;Navarro Tirado;Angelica;Lucia;14/07/2001;C;TI;1001805250;Cartagena;8/02/2016;Psicolog�a
+200134510;Diaz Ching;Sebastian;Felipe;10/05/2002;C;TI;1193557645;Barranquilla;19/11/2009;Ingenier�a Mec�nica
+200135107;Guardo Rodriguez;Maria;Jose;12/01/2002;C;TI;1002194120;Cartagena;19/01/2016;Ingenier�a Electr�nica
+200134459;Sierra Arango;Daniela;;10/08/2001;C;TI;1007740176;Cartagena;8/09/2015;Psicolog�a
+200135805;Lecompte Sejnaui;Daniel;Eduardo;10/10/2000;C;TI;1007763602;Cartagena;31/03/2015;Administraci�n de Empresas
+200134732;Lopez Grau;Raul;Jose;14/06/2001;C;TI;1001805233;Cartagena;10/07/2015;Ingenier�a de sistemas
+200129728;Velez De Pombo;Alejandra;Isabel;15/05/2000;C;CC;1010081004;Cartagena;7/06/2018;Derecho
+200061170;Barrios Suarez;Sebastian;Jose;1/06/2001;C;TI;1002162416;Soledad;14/12/2015;Medicina
+200097295;Gomez Alvarado;Laura;Andrea;23/08/2001;C;TI;1193456457;Barranquilla;18/09/2017;Psicolog�a
+200097355;Manosalva Rodriguez;Lina;Marcela;23/07/2002;C;TI;1001820171;Barranquilla;2/07/2010;Comunicaci�n social
+200050141;Borres Machado;Oliver;;29/04/2002;C;TI;1006734110;Barrancas;19/05/2016;Derecho
+200137136;Donado Ahumada;Gustavo;De Jesus;17/02/2002;C;TI;1193581999;Barranquilla;30/07/2018;Filosof�a y Humanidades
+200138104;Medina Parada;Nataly;Fernanda;11/01/2002;C;TI;1004461481;Barranquilla;24/02/2016;Negocios Internacionales
+200138084;Hernandez Santos;Angela;Maria;2/02/2000;C;CC;1001817727;Pereira;2/02/2018;Derecho
+200138027;Cabarcas Moreno;Maria;De Los Angeles;28/06/2001;C;TI;1001856550;Barranquilla;5/10/2015;Dise�o Industrial
+200134416;Moya Carre�o;Valerie;Gissell;8/02/2002;C;TI;1001996351;Barranquilla;9/07/2016;Medicina
+200136891;Molina Tinoco;Nataly;Julieth;6/03/2002;C;TI;1001853825;Barranquilla;20/08/2014;Comunicaci�n social
+200136267;Vega Posada;Angela;;4/07/2001;C;TI;1002208324;Barranquilla;23/11/2015;Ingenier�a Industrial
+200135231;Taborda Nu�ez;Juan;Jose;28/07/2001;C;TI;1002212989;Barranquilla;10/11/2016;Econom�a
+200136457;Osma Garcia;Natalia;;27/09/2001;C;TI;1002030202;Barranquilla;26/11/2010;Derecho
+200136268;Vergara Bujato;Mayra;Alejandra;18/11/2001;C;TI;1002158009;Barranquilla;1/12/2015;Lenguas Modernas y Cultura
+200134705;Villanueva Villadiego;Luz;Daniela;29/12/2001;C;TI;1001996275;Barranquilla;27/06/2016;Psicolog�a
+200135819;Esquivia Espinosa;Daniel;;15/07/1999;C;CC;1047512900;Cartagena;3/04/2018;Arquitectura
+200136872;Barboza Rey;Luisa;Fernanda;17/07/2001;C;TI;1007739974;Cartagena;30/08/2018;Negocios Internacionales
+200134170;Rojas Sabogal;Sthephany;;15/02/2002;C;TI;1002242423;Cartagena;13/04/2016;Ingenier�a de sistemas
+200134439;Perez Ruiz;Daniel;Andres;13/03/2001;C;TI;1007770761;Sincelejo;6/12/2015;Ingenier�a civil
+200134407;Ruiz De Leon;Dayana;Carolina;13/02/2002;C;TI;1001916064;Valledupar;16/02/2017;Ingenier�a civil
+200134892;Fontalvo Suarez;Jose;Armando;13/02/2002;C;TI;1193573069;Valledupar;9/06/2016;Ingenier�a civil
+200116114;Rincon Duran;Daniel;Andres;16/08/2001;C;TI;1193143082;Barranquilla;26/01/2011;Contadur�a P�blica
+200067866;Sanchez Guerrero;Gustavo;Elias;17/04/2001;C;TI;1002154415;Soledad;28/08/2017;Ingenier�a Industrial
+200134587;Beltran Mejia;Juan;Sebastian;8/03/2001;C;TI;1192809807;Riohacha;9/10/2015;Contadur�a P�blica
+200139938;Bolivar Morales;Luis;David;31/03/2001;C;TI;1007795163;Barranquilla;20/04/2015;Enfermer�a
+200139950;Torres Meri�o;Carlos;Jose;20/10/2001;C;TI;1128126200;Barranquilla;7/03/2016;Ingenier�a Mec�nica
+200096067;Trigos S�nchez;Maria;Fernanda;19/10/2001;C;TI;1002000461;Barranquilla;23/03/2016;Medicina
+200138811;Navarro Arrieta;Valeria;Andrea;20/06/2001;C;TI;1002154718;Barranquilla;6/07/2015;Dise�o Gr�fico
+200138628;Bustillo Lopez;Maria;Jose;22/03/2002;C;TI;1001853675;Barranquilla;8/01/2015;Ingenier�a Industrial
+200138806;Guzman Godoy;Humberto;Antonio;7/11/2001;C;TI;1002000746;Barranquilla;13/10/2017;Administraci�n de Empresas
+200138843;Criado Cantillo;Valentina;Estrella;9/08/2002;C;TI;1001945632;Barranquilla;19/05/2017;Ingenier�a civil
+200138962;Oliveros Corredor;Valeria;Isabel;6/09/2002;C;TI;1001946148;Barranquilla;7/12/2009;Ingenier�a Electr�nica
+200138679;Monterrosa Brito;Paola;Andrea;31/05/2000;C;CC;1192782677;Barranquilla;25/06/2018;Ingenier�a Industrial
+200138682;Nu�ez Sierra;Valentina;;5/09/2001;C;TI;1000974109;Bogot� D.C.;1/06/2016;Filosof�a y Humanidades
+200138033;Carrillo Rua;Maria;Camila;10/06/2001;C;TI;1192798629;Barranquilla;25/04/2014;Comunicaci�n social
+200138797;Torres Macea;Daniel;Alexander;22/08/2001;C;TI;1001999399;Soledad;31/08/2017;Comunicaci�n social
+200139835;Noriega Sanchez;Eliana;;2/11/2002;C;TI;1006714265;Albania;23/11/2016;Derecho
+200140310;Tovar Vides;Odalis;Maria;7/12/2002;C;TI;1052961254;Barranquilla;9/03/2017;Comunicaci�n social
+200131843;Ceballos Salcedo;Orlando;Rafael;3/12/2000;C;TI;1004373071;Santa Marta;11/12/2014;Administraci�n de Empresas
+200139696;Saieh Morales;Ricardo;Joshua;1/12/2001;C;TI;1001826033;Barranquilla;20/04/2016;Ingenier�a civil
+200098864;Carbonell Hernandez;Rosmery;Estela;2/06/2001;C;TI;1001917813;Puerto Colombia;10/11/2017;Derecho
+200139992;Pabon Gandara;Jaime;Pio;19/11/2001;C;TI;1001995617;Corozal;22/12/2015;Ingenier�a civil
+200140025;Salcedo Iguaran;Alexis;De Jesus;22/12/2001;C;TI;1006615222;Riohacha;27/02/2018;Arquitectura
+200139939;Eljaiek Mendoza;Sebastian;De Jesus;30/04/2001;C;TI;1004350076;Barranquilla;24/06/2016;Arquitectura
+200140827;Mesa Blanco;Dayan;Xiomara;2/05/1994;C;CC;1116549604;Aguazul;22/05/2012;Comunicaci�n social
+200140833;Moros Gomez;Jose;Andres;26/12/2000;C;TI;1010039439;Barranquilla;2/03/2016;Contadur�a P�blica
+200067601;Morales Casta�o;Andres;Felipe;18/01/1999;C;CC;1140900887;Barranquilla;27/01/2017;M�sica
+200138627;Bustillo Lopez;Maria;Claudia;22/03/2002;C;TI;1001853669;Barranquilla;8/01/2015;Ingenier�a Industrial
+200138810;Fernandez Gomez;Mariana;;18/09/2001;C;TI;1002211793;Barranquilla;10/01/2018;Negocios Internacionales
+200137774;Mu�oz Meza;Daniela;Jahell;7/12/2001;C;TI;1002132255;Barranquilla;18/07/2018;Administraci�n de Empresas
+200138979;Romulo Molina;Alejandro;;8/11/2001;C;TI;1001998373;Barranquilla;21/04/2016;Administraci�n de Empresas
+200131554;Fajardo Gomez;Daniel;Eduardo;18/10/2000;C;TI;1192779099;Barranquilla;11/05/2015;Arquitectura
+200137434;Florez Najera;Italo;Francisco;5/11/2001;C;TI;1007474411;San Sebastian De Bue;6/08/2018;Ingenier�a Mec�nica
+200139869;Gomez Visbal;Silvana;;5/01/2002;C;TI;1192717182;Barranquilla;20/04/2012;Geolog�a
+200136880;Consuegra Gomez;Michell;Esther;23/07/2000;C;CC;1001882122;Barranquilla;23/07/2018;Enfermer�a
+200118790;Araujo Florez;Sebastian;;21/06/2001;C;TI;1003316547;Valledupar;30/11/2015;Ingenier�a civil
+200139730;Martinez Arteta;Valeria;;16/07/2001;C;TI;1003231214;Barranquilla;9/09/2015;Negocios Internacionales
+200114289;Ortega Perez;Daniela;Andrea;22/05/2002;C;TI;1004357235;Santa Marta;21/10/2016;Ingenier�a civil
+200139948;Ortega Medina;Kevin;Andres;18/10/2001;C;TI;1007951383;Baranoa;5/01/2016;Ingenier�a de sistemas
+200140803;Niebles Pereira;Stephanie;Jael;21/08/2001;C;TI;1002209714;Barranquilla;7/10/2010;Psicolog�a
+200139081;Angulo Padilla;Mateo;Andres;12/05/2000;C;CC;1010093597;Barranquilla;21/06/2018;Lenguas Modernas y Cultura
+200140837;Llinas Mu�oz;Jose;Vicente;3/03/2000;C;CC;1127572591;Puerto Colombia;22/03/2018;Administraci�n de Empresas
+200138717;Suarez Bustamante;Luis;Santander;26/07/2002;C;TI;1005572468;Sincelejo;22/10/2017;Arquitectura
+200138648;Forero Quijano;Miguel;Angel;25/02/2002;C;TI;1005661653;Sincelejo;2/08/2012;Negocios Internacionales
+200047154;Jimenez Rojas;Maria;Paula;17/06/2001;C;TI;1193031879;Sincelejo;26/07/2018;Derecho
+200138521;Iguaran Hernandez;Clarena;Nakelys;5/12/2000;C;TI;1006638438;Riohacha;8/01/2015;Geolog�a
+200138830;Caicedo Pimienta;Henry;Eduardo;14/07/2001;C;TI;1193117376;Barranquilla;9/02/2018;Ingenier�a de sistemas
+200130871;Crespo Salcedo;Jennifer;Paola;13/10/2000;C;TI;1010010300;Barranquilla;29/10/2014;Ingenier�a Mec�nica
+200133817;Gomez Mercado;Maria;Auxiliadora;10/12/1999;C;CC;1002228444;Malambo;27/02/2018;Ingenier�a Electr�nica
+200140043;Arzuza Estrada;Wiceidys;Edith;25/04/2002;C;TI;1007123160;Soledad;13/09/2016;Comunicaci�n social
+200079819;Vergara Covelli;Sheyla;Marcela;15/04/2002;C;TI;1193584189;Puerto Colombia;27/07/2016;Derecho
+200140047;Paternina Ramos;Natalia;;8/02/2001;C;TI;1005568091;Sincelejo;8/07/2016;Derecho
+200140049;Sanchez Arrautt;Cristian;Andres;1/12/2001;C;TI;1001853185;Barranquilla;22/01/2016;Administraci�n de Empresas
+200140526;Aguilera Santis;Jaime;Alejandro;10/08/2000;C;CC;1005575873;Sincelejo;13/08/2018;Econom�a
+200133282;Osorio Vizcaino;Rosa;Margarita;21/05/2001;C;TI;1001034782;Barranquilla;26/01/2016;Arquitectura
+200132013;Camargo Franco;Sofia;;1/12/1999;C;CC;1234097417;Barranquilla;12/12/2017;Medicina
+200096718;Soraca Vasquez;Gina;Paola;9/07/2002;C;TI;1193295017;Magangue;13/10/2016;Derecho
+200058888;Torres Jaramillo;Fabian;Alexis;16/04/2002;C;TI;1034287290;Soledad;21/07/2016;Comunicaci�n social
+200140802;Domenech Paternina;Daniel;;1/08/2001;C;TI;1001821864;Barranquilla;8/07/2011;Ingenier�a Mec�nica
+200140839;Castellanos Dita;Yessica;Paola;7/09/2002;C;TI;1001933559;Sabanalarga;10/10/2018;Ingenier�a Industrial
+200138967;Padilla Urango;Jesus;David;12/09/2001;C;TI;1001823071;Barranquilla;30/11/2009;Econom�a
+200138816;Acosta Carvajal;Dylan;;22/06/2001;C;TI;1002153487;Barranquilla;19/10/2009;Negocios Internacionales
+200138889;Pinzon Monta�o;Paula;Andrea;21/02/2002;C;TI;1001823407;Bogot� D.C.;24/06/2010;Derecho
+200138655;Guarin Ardila;Paula;Andrea;8/03/2002;C;TI;1002157373;Barranquilla;10/01/2018;Geolog�a
+200138946;Lopez Berrocal;Ricardo;;13/01/2002;C;TI;1002194238;Cartagena;26/09/2016;Medicina
+200139947;Monta�ez Coronado;Valentina;;8/08/2000;C;TI;1007901879;Bogot� D.C.;6/10/2014;Administraci�n de Empresas
+200129182;Vergara Qui�onez;Sebastian;;23/04/2000;C;CC;1193475661;La Union;23/04/2018;Ingenier�a Mec�nica
+200127510;Perez Ramirez;Anthony;Manuel;7/10/2000;C;TI;1193470311;Soledad;30/12/2009;Enfermer�a
+200140026;Serpa Mercado;Julio;Cesar;22/07/2001;C;TI;1005416370;Palmito;17/07/2008;Geolog�a
+200132658;Lizarazu Villamizar;Guillermo;Andres;7/10/2000;C;CC;1005340022;Barranquilla;24/10/2018;Ingenier�a Electr�nica
+200140846;Conrado Arguello;Leidy;Milena;28/09/2001;C;TI;1001821604;Malambo;11/01/2017;Derecho
+200077389;Narvaez Baron;Luis;Fernando;1/12/2001;C;TI;1001824688;Barranquilla;28/11/2017;
+200138463;Caceres Sanchez;Lina;Fernanda;26/11/2001;C;TI;1001915226;Barranquilla;28/06/2012;Psicolog�a
+200138494;De Luque Campos;Ana;Alejandra;26/04/2000;C;CC;1006569599;Riohacha;22/05/2018;Negocios Internacionales
+200138592;Sierra Gomez;Juan;Andres;12/05/2001;C;TI;1193523639;Baranoa;10/12/2009;Ingenier�a civil
+200138640;Contreras Rios;Natalia;Vanessa;30/12/2002;C;TI;1193118627;Sincelejo;10/10/2012;Arquitectura
+200078459;Rivera Linero;Daniela;Paola;7/04/1998;C;CC;1140897154;Barranquilla;20/04/2016;Lenguas Modernas y Cultura
+200139577;Rangel Gomez;Alberto;Manuel;28/01/2002;C;TI;1002357580;Mompos;21/01/2011;Ingenier�a Mec�nica
+200140274;Ortiz Escobar;Esteban;;28/01/2000;C;CC;1019154239;Bogot� D.C.;7/02/2018;Ingenier�a Industrial
+200140235;Lobelo Martinez;Yuliela;;4/07/2001;C;TI;1047041161;Barranquilla;15/06/2017;Contadur�a P�blica
+200138469;Cardozo Arias;Karina;Andrea;14/05/2002;C;TI;1002209287;Barranquilla;10/08/2018;Negocios Internacionales
+200138434;Alcala Rico;Emma;Luz;9/09/1999;C;CC;1118876424;Riohacha;7/05/2018;Psicolog�a
+200138568;Pinto Hernandez;Frank;;11/01/2003;C;TI;1063718074;Mo�itos;15/06/2017;Geolog�a
+200058223;Rodriguez Rodriguez;Maria;Camila;23/01/2002;C;TI;1002209730;Puerto Colombia;3/04/2018;Enfermer�a
+200138498;Dicembre;Maurizio;;12/05/2001;E;CE;587936;Barranquilla;23/03/2016;Ingenier�a Mec�nica
+200138582;Rodriguez Roldan;Imanol;;26/12/2001;C;TI;1001817873;Barranquilla;28/06/2016;Ingenier�a Mec�nica
+200128983;Sarmiento Acosta;Sergio;Andres;27/06/2001;C;TI;1001994728;Barranquilla;11/05/2016;Relaciones Internacionales
+200138644;Duque Gonzalez;Santiago;Alfonso;17/12/2001;C;TI;1002163707;Barranquilla;6/04/2016;Ingenier�a Industrial
+200058159;Altamar P�rez;Nicolle;Andrea;18/04/2001;C;TI;1001944466;Soledad;27/06/2017;Comunicaci�n social
+200140443;Molano Gomez;Kevin;David;21/01/1999;C;CC;1020838493;Bogot� D.C.;24/01/2017;Administraci�n de Empresas
+200140473;Florez Vasquez;Pedro;Jose;23/05/1998;C;CC;1140897766;Barranquilla;2/06/2016;Ciencia Pol�tica y Gobierno
+200140525;Escorcia Sanchez;Javier;Jesus;19/09/2001;C;TI;1002211600;Barranquilla;10/08/2018;Ingenier�a El�ctrica
+200140515;Miranda Castillo;Antholy;Enrique;28/01/2002;C;TI;1001818721;Barranquilla;2/12/2010;Ciencia Pol�tica y Gobierno
+200130792;Charris Angarita;Carlos;Alberto;19/01/2001;C;TI;1193419663;Barranquilla;25/01/2017;Ingenier�a Industrial
+200139548;Rodelo Prins;Jose;Abel;3/03/2001;C;TI;1001821162;Barranquilla;21/04/2016;Derecho
+200139590;Peralta Candanoza;Maria;Alejandra;12/11/2000;C;TI;1001832917;Barranquilla;22/06/2015;Arquitectura
+200139534;Rueda Vi�as;Carlos;David;25/10/2000;C;CC;1004276647;Fundacion;30/10/2018;Administraci�n de Empresas
+200140201;Santodomingo Martinez;Jose;Eulises;9/09/2000;C;TI;1007364227;Barranquilla;22/04/2015;M�sica
+200140273;Gongora Mejia;Mario;Fernando;10/02/2000;C;CC;1003243765;Valledupar;20/02/2018;Arquitectura
+200140263;Bolle Carrillo;Gabriela;;14/12/2000;C;TI;1006501727;Barranquilla;9/03/2015;Ciencia Pol�tica y Gobierno
+200140082;Mendoza Restrepo;Karim;Augusto;30/10/2000;C;CC;1003045744;Monteria;8/11/2018;Ingenier�a Mec�nica
+200130116;Carranza Bola�o;Diana;Katerine;9/09/2000;C;TI;1002135521;Barranquilla;22/10/2018;Contadur�a P�blica
+200138522;Jaime Aliendra;Malory;De Jesus;27/05/1997;C;CC;1037660543;Envigado;12/02/2016;Contadur�a P�blica
+200138696;Pe�a Florez;Maria;Camila;23/02/2002;C;TI;1003435593;Monteria;3/03/2016;Negocios Internacionales
+200138432;Aguilar Torres;Angie;Marcela;12/12/1995;C;CC;1143257270;Barranquilla;18/02/2014;Lic. en Pedagog�a Infantil 4a
+200138468;Cardenas Carrillo;Isabella;;5/06/2002;C;TI;1193284209;Santo Tom�s;25/10/2012;Derecho
+200138649;Garcia Rivero;Roberto;Carlos;23/01/2002;C;TI;1002344213;El Carmen De Bolivar;4/04/2016;Ingenier�a civil
+200138807;Montes Avilez;Juan;David;1/09/2001;C;TI;1003081898;Puerto Libertador;19/03/2017;Ingenier�a El�ctrica
+200097500;Valderrama De Aguas;Laura;Melissa;14/12/2000;C;TI;1001941594;Barranquilla;21/05/2015;Dise�o Industrial
+200083442;Cepeda Coll;Ivan;Rafael;2/11/2000;C;TI;1002207918;Barranquilla;18/03/2015;Administraci�n de Empresas
+200140527;Rubio Paez;Isabella;Andrea;4/10/2001;C;TI;1002194952;Cartagena;29/04/2013;Dise�o Gr�fico
+200129391;Romero Borrero;Nicolas;Elias;30/04/2000;C;TI;1042252106;Barranquilla;22/07/2014;Ciencia Pol�tica y Gobierno
+200139719;Fernandez Deluque;Fabian;Elias;23/05/2002;C;TI;1001824069;Galapa;8/10/2014;M�sica
+200140202;Suarez Lozano;Luis;Enrique;23/11/2001;C;TI;1001818816;Barranquilla;14/03/2016;Econom�a
+200044906;Lopez Nagles;Juan;Pablo;10/06/1999;C;CC;1234095282;Barranquilla;13/06/2017;Arquitectura
+200138684;Ojeda Perez;Marianela;;9/04/2001;C;TI;1001946027;Sabanagrande;21/12/2009;Ingenier�a Industrial
+200138960;Mosquera Mariottis;Carlos;Alberto;6/09/1999;C;CC;1234096149;Barranquilla;18/09/2017;Negocios Internacionales
+200138523;Jimenez Herrera;Mabel;Cristina;24/08/2000;C;CC;1192796540;Barranquilla;18/09/2018;Psicolog�a
+200138919;Beltran Osorio;Natalia;;1/12/2001;C;TI;1002209627;Barranquilla;18/01/2016;Relaciones Internacionales
+200138631;Calderon Salcedo;Andrea;Carolina;21/04/2001;C;TI;1193519038;Barranquilla;2/12/2015;Lenguas Modernas y Cultura
+200138676;Molina Cure;Sebastian;;23/09/2001;C;TI;1001853307;Barranquilla;11/08/2016;Ingenier�a Mec�nica
+200138683;Ocampo Caballero;Valentina;;21/02/2002;C;TI;1002157969;Barranquilla;12/11/2016;Comunicaci�n social
+200140350;Salcedo Sanchez;Jesus;David;13/06/2001;C;TI;1001886498;Barranquilla;19/01/2011;Comunicaci�n social
+200140338;Gonzalez Donado;Meriales;;9/11/2001;C;TI;1001945108;Barranquilla;15/04/2016;Ingenier�a El�ctrica
+200140489;Diaz Berdugo;Andrea;Carolina;17/04/2002;C;TI;1002031666;Barranquilla;15/07/2016;Ingenier�a Industrial
+200111509;Bermudez Vergara;Andres;Felipe;7/01/2001;C;TI;1002248749;Barranquilla;26/05/2015;Medicina
+200129456;Loaiza Lopez;Alejandro;Miguel;2/04/1999;C;CC;1140902264;Barranquilla;12/05/2017;Ingenier�a civil
+200139673;Cepeda Bustamante;Melanie;Paola;16/09/2000;C;CC;1193371907;Barranquilla;12/10/2018;Comunicaci�n social
+200139690;Palacio Diaz;Jhon;Stiben;4/03/2002;C;TI;1005584451;Los Palmitos;24/09/2014;Geolog�a
+200138647;Florez Molina;Carlos;Andres;12/05/2001;C;TI;1002000055;Puerto Colombia;4/10/2018;Psicolog�a
+200138550;Mozo Rodriguez;Fernando;Alberto;25/11/2000;C;TI;1004425038;Santa Marta;21/05/2015;Econom�a
+200138566;Pimienta Huertas;Nicolle;Andrea;6/05/2001;C;TI;1002161788;Barranquilla;23/02/2018;Lenguas Modernas y Cultura
+200129558;Manga Manga;Angela;Lucia;4/10/2002;C;TI;1001876470;Barranquilla;15/03/2017;Dise�o Gr�fico
+200130113;Araujo Carballo;Jose;Miguel;5/08/2000;C;TI;1002248081;Cartagena;14/07/2016;Administraci�n de Empresas
+200131563;Rincon Salas;Sebastian;Andres;7/09/2000;C;TI;1192788351;Barranquilla;4/10/2018;Ingenier�a Mec�nica
+200139468;Del Chiaro Torres;Alejandra;Maria;22/03/2002;C;TI;1001825567;Barranquilla;1/11/2016;Matem�ticas
+200139531;Rodriguez Alvear;Leonardo;Alexis;18/12/2001;C;TI;1193542435;Barranquilla;15/01/2016;Ingenier�a Electr�nica
+200140200;Salazar Pertuz;Alejandro;David;7/10/2000;C;CC;1192779566;Valledupar;7/11/2018;Derecho
+200140651;Collazos Mantilla;Sofia;Alejandra;14/08/1999;C;CC;1020843090;Bogot� D.C.;24/08/2017;Psicolog�a
+200138828;Britto Quintero;Allyson;;6/12/2002;C;TI;1006579491;Riohacha;24/10/2017;Ingenier�a civil
+200140448;Florez Duran;Maria;Cristina;10/10/2001;C;TI;1007961405;Baranoa;1/08/2016;Arquitectura
+200140441;Florez Duran;Nina;Luz;10/10/2001;C;TI;1007961404;Baranoa;1/08/2016;Arquitectura
+200140404;Morales Zambrano;Carlos;Ivan;14/05/2001;C;TI;1001976273;Cartagena;17/03/2016;Derecho
+200114131;Munevar Duncan;Sebastian;De Jesus;1/11/2002;C;TI;1001824338;Barranquilla;1/08/2018;
+200140307;Benjumea Cervantes;Julian;David;21/09/2001;C;TI;1047042266;Barranquilla;27/04/2012;Administraci�n de Empresas
+200140309;Miranda Sinning;Henry;David;3/01/2002;C;TI;1007988143;Cartagena;8/10/2018;Odontolog�a
+200140759;Mitchell Wilches;Phillip;Enrique;31/03/2000;C;CC;1002207055;Chia;27/04/2018;Administraci�n de Empresas
+200140684;Salon Espinosa;Alfredo;Jose;13/10/2000;C;CC;1005581305;Corozal;16/10/2018;Contadur�a P�blica
+200138671;Medina Alvarez;Juan;Diego;22/06/2002;C;TI;1002158026;Barranquilla;19/04/2011;Administraci�n de Empresas
+200138636;Casalins Ariza;Valerie;Sofia;27/04/2001;C;TI;1001911383;Barranquilla;7/01/2016;Psicolog�a
+200138505;Figueroa Castro;Daniela;Carolina;7/02/2002;C;TI;1001891520;Soledad;12/05/2017;Geolog�a
+200130875;Salazar Schiller;Maximiliano;;25/08/2000;C;CC;1002207494;Barranquilla;30/08/2018;Relaciones Internacionales
+200140442;Luna Pascuales;Julieth;Paola;23/04/2002;C;TI;1001824715;Barranquilla;28/03/2018;Lic. en Pedagog�a Infantil 4a
+200097367;Rivera Polo;Yardell;Luis;13/07/2001;C;TI;1001822956;Barranquilla;4/01/2016;Contadur�a P�blica
+200097305;Garcia Sanchez;Daniela;;12/01/2002;C;TI;1005001622;Barranquilla;16/01/2016;Psicolog�a
+200131555;Franco Patron;Alonso;Rafael;27/10/1999;C;CC;1047510824;Cartagena;7/11/2017;Ingenier�a Mec�nica
+200140653;Otero Urueta;Eduardo;Mario;28/03/2001;C;TI;1193496593;Barranquilla;19/03/2013;Administraci�n de Empresas
+200140681;Hernandez Redondo;Enoelma;Isabel;4/04/2002;C;TI;1001942181;Soledad;10/08/2017;Enfermer�a
+200139916;Echavarria Ochoa;Juan;Andres;6/01/1998;C;CC;1037661850;Envigado;15/04/2016;Administraci�n de Empresas
+200139919;Rueda Sagbini;Ruth;Esther;6/06/2002;C;TI;1002159674;Barranquilla;30/11/2016;Administraci�n de Empresas
+200138798;Mejia Valencia;Oscar;Andres;16/08/2000;C;CC;1193569274;Barranquilla;22/08/2018;Medicina
+200138808;Pantoja Giraldo;Marisabella;;15/09/1999;C;CC;1140904701;Barranquilla;5/10/2017;Comunicaci�n social
+200130202;David Pardo;Daniel;Abraham;31/10/1999;C;CC;1047510826;Cartagena;7/11/2017;Arquitectura
+200138759;Arango De Silvestri;Carlo;Alberto;22/03/2000;C;CC;1004424865;Santa Marta;9/04/2018;Econom�a
+200138753;Rangel Ramos;Lusiana;Vanessa;31/01/2000;C;CC;1010042198;Barranquilla;19/04/2018;Dise�o Industrial
+200138480;Colina Schiller;Breiner;De Jesus;22/04/2002;C;TI;1001941153;Soledad;25/01/2018;Comunicaci�n social
+200085841;Gallego Espinosa;Brenda;Michell;2/07/2001;C;TI;1001940377;Barranquilla;8/10/2015;Administraci�n de Empresas
+200114329;Marquez Pantoja;Ruben;Mario;23/08/2001;C;TI;1001856841;Barranquilla;25/04/2018;Administraci�n de Empresas
+200067551;Santana Castillo;Aurie;Natalie;1/10/2001;C;TI;1001974117;Cartagena;7/10/2015;Derecho
+200079812;Chicangana Salas;Maria;Belen;10/09/2001;C;TI;1007469941;Barranquilla;3/08/2018;Comunicaci�n social
+200138930;Fernandez Tamara;Laura;Carolina;14/01/2002;C;TI;1002028962;Barranquilla;17/01/2018;Ingenier�a civil
+200138854;Diaz Escudero;Maria;Fernanda;18/10/2001;C;TI;1001995708;Barranquilla;6/05/2016;Lenguas Modernas y Cultura
+200130213;Gonzalez Ladron De Guevara;Daniel;Esteban;18/05/1999;C;CC;1234095622;Barranquilla;24/07/2017;Lenguas Modernas y Cultura
+200128599;Gonzalez Mendoza;Natalia;De Jesus;1/01/2000;C;CC;1193508836;Barranquilla;1/03/2018;Comunicaci�n social
+200139834;Moreno Castro;Jorge;Alberto;27/02/1996;C;CC;1140885671;Barranquilla;9/06/2014;Dise�o Gr�fico
+200139931;Mercado Gomez;Nicolle;Alexandra;9/09/2000;C;CC;1001818635;Barranquilla;14/09/2018;Lenguas Modernas y Cultura
+200134641;Guillermo Angulo;Daniel;Alejandro;12/12/2001;C;TI;1002092645;Barranquilla;21/01/2011;Ingenier�a Electr�nica
+200138594;Solano Naranjo;Kevin;Andres;10/09/1997;C;CC;1140894106;Barranquilla;23/09/2015;Lenguas Modernas y Cultura
+200053152;Villadiego Corena;Natalia;Paola;20/09/1999;C;CC;1044434788;Puerto Colombia;1/11/2017;Psicolog�a
+200139814;Rozo Gomez;David;Ricardo;17/12/1999;C;CC;1001822396;Barranquilla;26/06/2018;Ingenier�a Industrial
+200139842;Olave Barrios;Clarissa;Kariana;12/08/2002;C;TI;1001857057;Barranquilla;21/10/2016;Enfermer�a
+200139801;Cajigas Ranauro;Andrea;Isabel;10/04/2002;C;TI;1002163171;Barranquilla;21/06/2016;Administraci�n de Empresas
+200140682;Mari�o Gonzalez;Juan;David;1/08/2001;C;TI;1010033963;Cartagena;29/09/2015;Ingenier�a Mec�nica
+200067361;Lopez Cardenas;Natalia;Vanessa;18/04/2002;C;TI;1001824817;Barranquilla;23/07/2018;Enfermer�a
+200138606;Acosta Castillo;Carlos;Jose;3/11/2001;C;TI;1002158993;Barranquilla;28/06/2016;Comunicaci�n social
+200138680;Moreno Rivera;Luis;Alberto;21/12/2001;C;TI;1001818344;Barranquilla;14/07/2009;Arquitectura
+200138624;Berardinelli Gamez;Jose;Felix;19/06/2002;C;TI;1006680466;Valledupar;10/11/2016;Medicina
+200138847;Cure Tous;Catalina;;16/03/2002;C;TI;1001782808;Barranquilla;15/08/2017;Arquitectura
+200138673;Mendez Marin;Maria;Andrea;28/06/2001;C;TI;1193370253;Corozal;2/03/2016;Comunicaci�n social
+200131974;Coronado Balza;Valentina;Andrea;20/01/2001;C;TI;1001876529;Barranquilla;27/02/2008;Enfermer�a
+200139343;Herrera Murgas;Maria;Jose;18/09/2001;C;TI;1001856685;Barranquilla;12/08/2011;Ingenier�a Industrial
+200139840;Sierra Martinez;Victor;Esteban;4/11/2002;C;TI;1002000939;Soledad;19/07/2010;Ingenier�a Mec�nica
+200139873;Ripoll Silva;Laura;Andrea;7/12/2001;C;TI;1002193200;Barranquilla;23/06/2017;Ingenier�a El�ctrica
+200139825;De La Espriella Diaz;Natalia;Consuelo;18/02/2002;C;TI;1001918151;Barranquilla;5/01/2018;Negocios Internacionales
+200139849;Romero Puello;Valeria;Vanessa;1/05/2002;C;TI;1006615568;Riohacha;19/07/2018;Relaciones Internacionales
+200126881;Restom Tinoco;Felipe;Andres;3/03/2001;C;TI;1001970041;Sincelejo;4/04/2017;Negocios Internacionales
+200138933;Garcia Roman;Vanessa;;12/06/2001;C;TI;1005665283;Sampues;14/07/2017;Derecho
+200138651;Gomez Araque;Sofia;;22/08/2001;C;TI;1003315576;Valledupar;10/10/2016;Ingenier�a civil
+200138689;Ospina Ruiz;Juan;Jose;7/12/2000;C;TI;1004733260;Pereira;1/12/2015;Contadur�a P�blica
+200112699;Roa Oyuela;Valentina;;24/01/2002;C;TI;1002209728;Barranquilla;17/01/2013;Comunicaci�n social
+200139804;De Leon Diaz;Cristian;David;8/05/2001;C;TI;1002212269;Barranquilla;4/01/2018;Derecho
+200085847;Parra Garcia;Jaime;Alfredo;22/04/2002;C;TI;1002210366;Barranquilla;12/03/2015;Contadur�a P�blica
+200139822;Arrieta Aguera;Miguel;Angel;18/04/2001;C;TI;1002246169;Barranquilla;20/12/2016;M�sica
+200113980;Via�a Carrasquilla;Santiago;David;30/03/2001;C;TI;1002136525;Barranquilla;16/04/2015;Medicina
+200138645;Duran Carre�o;Juan;Carlos;9/09/2000;C;CC;1192735245;Barranquilla;10/09/2018;Ingenier�a de sistemas
+200139646;Guerra Solano;Natalia;Andrea;16/06/2000;C;CC;1003431239;San Pelayo;6/08/2018;Lenguas Modernas y Cultura
+200139632;Esca�o Padilla;Melissa;Paola;19/12/2001;C;TI;1001947878;Barranquilla;28/07/2018;Enfermer�a
+200134215;Escudero Rico;Samuel;Yasser;1/11/2000;C;TI;1006570151;Riohacha;10/05/2017;Ingenier�a Electr�nica
+200134733;Marquez Triana;Mariana;;20/11/2001;C;TI;1001995519;Barranquilla;5/07/2016;Dise�o Gr�fico
+200134684;Duran Villasmil;Camila;Alejandra;6/06/2000;E;CE;465119;Bogot� D.C.;21/12/2017;Negocios Internacionales
+200134894;Orejarena Ariza;Juan;David;7/10/2001;C;TI;1001919597;Barranquilla;4/12/2015;Ingenier�a Mec�nica
+200134685;Fang Alvarez;Camilo;Andres;3/02/2002;C;TI;1001823726;Barranquilla;2/08/2016;Comunicaci�n social
+200135103;Gonzalez Benitez;Juan;Camilo;5/01/2002;C;TI;1005640484;Barranquilla;23/11/2016;Ingenier�a civil
+200102943;Arrieta Gonzalez;Natalia;Marcela;18/03/2002;C;TI;1002157937;Barranquilla;31/03/2016;Ingenier�a civil
+200136657;Garcia Pinto;Maria;Jose;4/10/2001;C;TI;1001823490;Barranquilla;28/11/2016;Comunicaci�n social
+200135851;Angarita Julio;Isaac;David;16/02/2002;C;TI;1001973545;Barranquilla;23/11/2016;Derecho
+200134462;Suarez Berdugo;Sara;;26/12/2001;C;TI;1002209746;Barranquilla;23/11/2016;Dise�o Gr�fico
+200134608;Estrada Pe�aloza;Jose;Ramiro;1/02/2000;C;CC;1002154697;Barranquilla;12/04/2018;Ingenier�a Industrial
+200137234;Woltmann Santana;Kathy;;26/02/2001;C;TI;1007973824;Barranquilla;5/10/2015;Administraci�n de Empresas
+200134199;Baena Manotas;Andrea;Paola;10/04/2002;C;TI;1003378021;Valledupar;20/11/2017;Medicina
+200134525;Consuegra Ortega;Diana;Carolina;14/05/2001;C;TI;1003314137;Valledupar;19/06/2015;Derecho
+200137331;Orozco Arroyo;Javier;Enrique;4/12/2001;C;TI;1193233933;Barranquilla;19/02/2018;Ingenier�a Electr�nica
+200135550;Rincon Borelly;Miranda;Esther;25/03/2002;C;TI;1001824332;Barranquilla;9/02/2017;Ingenier�a El�ctrica
+200136484;Gonzalez Hugueth;Leonardo;David;26/10/2001;C;TI;1001824742;Barranquilla;20/11/2017;Ingenier�a Mec�nica
+200135118;Lopez Redondo;Valentina;;30/06/2000;C;CC;1010120389;Bogot� D.C.;3/08/2018;Geolog�a
+200134247;Paternina Benavides;Nathaly;;7/09/2001;C;TI;1003434145;Monteria;3/11/2015;Medicina
+200137179;Moreno Valencia;Eliana;Margarita;17/09/2001;C;TI;1083562034;Cienaga;26/12/2017;Ingenier�a Industrial
+200135853;Baleta Cardenas;Jose;David;23/03/2002;C;TI;1193080686;Sincelejo;3/07/2018;Derecho
+200134565;Seba Gonzalez;Catalina;;25/08/2001;C;TI;1005570314;Sincelejo;25/02/2016;Medicina
+200135580;Martinez Bohorquez;Daniela;;26/05/2002;C;TI;1005662348;Sincelejo;1/12/2016;Ingenier�a Industrial
+200136788;Villadiego Alvarez;Daniel;Urias;28/10/2002;C;TI;1005573005;Sincelejo;11/12/2017;Comunicaci�n social
+200134518;Peralta Medina;Santiago;Rafael;20/04/2001;C;TI;1001972156;Sincelejo;23/11/2017;Derecho
+200134145;Echandia Villota;Camilo;;14/08/2001;C;TI;1005627277;Sincelejo;19/08/2015;Ingenier�a Industrial
+200136554;Galvis Verbel;Veronica;;24/10/2001;C;TI;1003394397;Monteria;16/12/2016;Lenguas Modernas y Cultura
+200135044;Puche Padilla;Lisa;Maria;28/09/2001;C;TI;1006957778;Monteria;21/02/2018;Econom�a
+200134201;Burgos Agamez;Andres;Mauricio;5/10/2001;C;TI;1003394038;Monteria;1/10/2013;Ingenier�a Industrial
+200136552;Florian O�oro;Angel;David;17/02/2002;C;TI;1002157765;Barranquilla;25/07/2016;Ingenier�a civil
+200136576;Martinez Bravo;Geimar;Yesid;27/01/2002;C;TI;1004273653;Fundacion;17/01/2018;Ingenier�a civil
+200135098;Gomez Rivas;Valentina;Luz;3/10/2001;C;TI;1004352795;Santa Marta;23/01/2016;Derecho
+200135289;Ternera Pe�a;Maria;Jose;12/04/2002;C;TI;1004356617;Santa Marta;6/03/2017;Ingenier�a El�ctrica
+200134405;Moran Valdez;Stefany;Michell;10/11/2001;C;TI;1083452607;Cienaga;10/08/2018;Comunicaci�n social
+200136310;Mendoza Ramos;Luis;Miguel;10/09/2001;C;TI;1002027644;Barranquilla;28/09/2015;Geolog�a
+200086173;Daza Hernandez;Angelin;;4/01/2003;C;TI;1001825184;La Jagua De Ibirico;17/11/2017;Ingenier�a civil
+200134173;Serna Duarte;Ronaldo;Javier;29/06/2002;C;TI;1006734452;Hatonuevo;22/07/2016;Administraci�n de Empresas
+200135261;Jimenez Pimienta;David;Eduardo;12/07/2000;C;CC;1193480892;Barranquilla;30/07/2018;Administraci�n de Empresas
+200085477;Vasquez Serrano;Maria;Jose;21/02/2002;C;TI;1002157767;Barranquilla;21/04/2016;Dise�o Gr�fico
+200136706;Sierra Aragon;Alvaro;De Jesus;19/10/2001;C;TI;1004280154;Plato;6/01/2016;Ingenier�a Mec�nica
+200135752;Llach Juvinao;Sergio;Andres;7/01/2002;C;TI;1001818368;Barranquilla;21/04/2016;Medicina
+200135997;Zirene Collante;Sophia;Isabella;7/09/2001;C;TI;1010153202;Barranquilla;14/04/2014;Derecho
+200137124;Cobo Hernandez;Henry;Antonio;16/01/2002;C;TI;1001996322;Barranquilla;5/09/2017;Ingenier�a civil
+200136947;Gualdron Barraza;Carlos;Alberto Jose;3/08/2001;C;TI;1001879160;Soledad;24/11/2017;Ingenier�a civil
+200136855;Rada Jerez;Hugo;Reinaldo;3/07/2001;C;TI;1001823457;Barranquilla;21/11/2016;Ingenier�a civil
+200134251;Puerta Conde;Juan;David;13/11/2001;C;TI;1002092593;Barranquilla;19/11/2015;Comunicaci�n social
+200112373;Gomez Magdaniel;Natalia;Paola;21/04/1998;C;CC;1045751625;Barranquilla;28/04/2016;Comunicaci�n social
+200136767;Guerrero Daza;Carlos;Jose;30/05/1999;C;CC;1049539432;San Estanislao;27/06/2017;Contadur�a P�blica
+200057435;Llinas Cabarcas;Juan;Sebastian;18/02/1998;C;CC;1140896439;Barranquilla;1/03/2016;Ciencia Pol�tica y Gobierno
+200127043;Molina Avila;Natalia;Paola;7/12/2000;C;TI;1193478186;Barranquilla;8/03/2017;Administraci�n de Empresas
+200134350;Oliveros Yepes;Lauren;Marcela;11/01/2002;C;TI;1001915501;Cartagena;19/07/2018;Ingenier�a Industrial
+200136559;Henriquez Reales;Juan;Miguel;28/07/2001;C;TI;1193456260;Barranquilla;18/04/2018;Ingenier�a El�ctrica
+200134970;Avellaneda Ardila;Juan;Camilo;3/02/2001;C;TI;1000274274;Bogot� D.C.;28/01/2016;Ingenier�a civil
+200137494;Freyle Guerrero;Valentina;;5/08/2001;C;TI;1006617386;Cienaga;22/09/2015;Dise�o Industrial
+200136710;Villa Carpentier;Emely;Lucia;6/07/2001;C;TI;1001994926;Barranquilla;5/01/2016;Ciencia Pol�tica y Gobierno
+200065540;Barrios Castro;Omar;Yesid;4/06/1994;C;CC;1043932577;Tubara;12/06/2012;Enfermer�a
+200135111;Guerrero Doria;Cesar;Augusto;23/10/2001;C;TI;1003394421;Monteria;25/01/2010;Ingenier�a civil
+200137114;Caro Espinosa;Luis;Felipe;22/07/2002;C;TI;1007171742;Soledad;16/08/2016;Ingenier�a de sistemas
+200136979;Diaz Ramos;Esteban;Jose;4/10/2002;C;TI;1007175392;Sabanagrande;12/10/2016;Ingenier�a Industrial
+200135363;Murillo Bustamante;Gustavo;Adolfo;18/12/2001;C;TI;1002036360;Barranquilla;30/12/2015;Ingenier�a Mec�nica
+200137369;Varela Lechuga;Juan;Felipe;11/04/2002;C;TI;1007891099;Barranquilla;25/07/2016;Ingenier�a civil
+200136898;Palacio Florez;Andrea;Lucia;25/10/2000;C;TI;1045728492;Barranquilla;22/03/2013;Psicolog�a
+200137272;Fontalvo Cardona;Andrea;Del Carmen;26/06/2002;C;TI;1001781083;Barranquilla;4/01/2017;Medicina
+200134221;Garcia Garcia;Arianis;Julieth;2/12/2001;C;TI;1001882073;Barranquilla;6/01/2016;Ingenier�a civil
+200136732;Mu�oz Insignares;Julian;David;6/08/2001;C;TI;1001818222;Barranquilla;22/06/2016;Ingenier�a civil
+200136596;Prada Mejia;Juan Pablo;Pablo;2/11/2000;C;TI;1193482404;Barranquilla;11/04/2018;Ingenier�a de sistemas
+200134824;Buelvas Rodriguez;Jannes;Sebastian;28/12/2001;C;TI;1006957770;Barranquilla;11/11/2009;Ingenier�a civil
+200137176;Miranda Ramirez;Juan;Diego;5/02/2002;C;TI;1007254598;Puerto Colombia;22/01/2018;Contadur�a P�blica
+200134265;Troncoso Quintero;Emilio;Alfonso;19/09/2002;C;TI;1193578414;Santa Marta;17/11/2010;Ingenier�a civil
+200134438;Olivella Villarreal;Paula;Andrea;4/08/1998;C;CC;1067961403;Monteria;29/08/2016;Enfermer�a
+200137302;Lopez Pimienta;Erika;Patricia;8/06/1999;C;CC;1000974835;Barranquilla;21/12/2017;Psicolog�a
+200134445;Rivero Diaz;Isabela;;16/10/2000;C;TI;1001911653;Barranquilla;1/08/2014;Medicina
+200136712;Lafont Pacheco;Juan;Diego;8/11/2000;C;TI;1002420275;Mompos;4/11/2016;Geolog�a
+200070578;Santos Pinzon;Nicolas;Andres;5/04/2001;C;TI;1007710681;Barranquilla;14/12/2016;Odontolog�a
+200136247;Lubinus Rasch;Stephan;;4/07/2000;C;CC;1000239858;Barranquilla;5/07/2018;Medicina
+200134164;Ospino Lopez;Leidys;Maria;21/02/2001;C;TI;1002034493;Barranquilla;18/01/2017;Relaciones Internacionales
+200124089;Manrique Macea;Brigith;Daniela;10/03/2000;C;CC;1001883053;Barranquilla;12/04/2018;Enfermer�a
+200133672;Ahumada Lopez;Mauricio;Alberto;7/12/2000;C;TI;1002207874;Barranquilla;23/01/2015;Comunicaci�n social
+200135230;Suarez Atencia;Jessica;Del Rosario;27/07/2001;C;TI;1193370339;Morroa;24/01/2011;Ingenier�a civil
+200134180;Vittorino Severiche;Andrea;;27/07/2001;C;TI;1005665335;Sincelejo;22/08/2017;Arquitectura
+200134916;Calabria Pati�o;Maria;Carolina;30/12/2001;C;TI;1002162903;Barranquilla;20/12/2017;Derecho
+200134223;Gil Duarte;Masiel;Dayana;24/10/2001;C;TI;1006617507;Riohacha;7/12/2015;Psicolog�a
+200131840;Bencomo Ruiz;Maria;Isabella;10/04/2000;C;CC;1002208121;Barranquilla;12/04/2018;Derecho
+200132782;Martinez Ni�o;Maria;Mercedes;3/08/2000;C;TI;1010042342;Baranoa;6/10/2014;Comunicaci�n social
+200057396;Varela Rodriguez;Adela;Elvira;24/05/2000;C;CC;1192816804;Barranquilla;1/06/2018;Enfermer�a
+200137572;Zapata Orlando;Melanie;Isabel;19/10/2001;C;TI;1001823698;Barranquilla;25/04/2016;Dise�o Gr�fico
+200135742;Bula Saumeth;Roberto;Mario;13/07/2000;C;CC;1001938266;Barranquilla;16/07/2018;Ingenier�a civil
+200070558;Algarin Heredia;Julio;Mario;12/12/2001;C;TI;1002029658;Barranquilla;25/01/2016;Derecho
+200136763;Fonseca Arrieta;Mariana;;31/10/2001;C;TI;1001852809;Buenavista;27/01/2016;Arquitectura
+200134217;Foliaco Valencia;Fiorella;Maria;6/09/2001;C;TI;1001821705;Barranquilla;4/01/2016;Psicolog�a
+200136874;Brito Zabaleta;Alberto;Enrique;26/11/2001;C;TI;1001853266;Barranquilla;29/03/2016;Ingenier�a Industrial
+200135207;Duran Gomez;Raul;Alejandro;18/11/2001;C;TI;1005220661;Barranquilla;2/02/2018;Ingenier�a Mec�nica
+200135374;Rey Riveira;Felipe;Alberto;23/10/2000;C;TI;1193577078;Barranquilla;22/12/2014;Medicina
+200136514;Arraut Navarro;Andres;Alberto;16/05/2002;C;TI;1001887285;Soledad;16/02/2017;Medicina
+200134723;Cabrera Mercado;Maria;Alejandra;1/11/2001;C;TI;1001995439;Barranquilla;14/10/2010;Administraci�n de Empresas
+200136090;Severiche Barandalla;Valentina;;22/09/2000;C;TI;1193403821;Barranquilla;11/11/2015;Ingenier�a Industrial
+200137430;Carre�o Perez;Laura;Sofia;5/03/2002;C;TI;1001918152;Barranquilla;24/11/2016;Psicolog�a
+200137133;De La Hoz Escorcia;Sofia;Alejandra;22/05/2002;C;TI;1010053117;Santo Tom�s;5/09/2017;Ingenier�a Electr�nica
+200137049;Salcedo Wandurraga;Carlos;Efrain;28/08/2002;C;TI;1001945966;Barranquilla;13/10/2010;Ingenier�a Mec�nica
+200136708;Valencia Castellar;Marcela;Patricia;3/08/2001;C;TI;1001856687;Barranquilla;12/08/2016;Relaciones Internacionales
+200137474;Barragan Ortiz;Angie;Sofia;11/09/2001;C;TI;1005465170;Barichara;1/12/2017;Odontolog�a
+200136836;Charris Fuenmayor;Edwin;Junior;22/07/2002;C;TI;1002030752;Soledad;31/08/2017;Contadur�a P�blica
+200134331;Mendoza Castellar;Daniela;Margarita;25/09/2002;C;TI;1003266223;Valledupar;13/10/2016;Derecho
+200135880;Mendoza Riveira;Ray;;24/08/2001;C;TI;1006638334;Riohacha;1/12/2015;Derecho
+200137117;Castellanos Pati�o;Landick;Harney;20/03/2000;C;CC;1001327833;Barranquilla;23/03/2018;Negocios Internacionales
+200134205;Chadid Martinez;Isaac;Jose;17/06/2002;C;TI;1005572263;Sincelejo;25/07/2016;Ingenier�a Industrial
+200049816;Vivero Barba;Isabella;;5/09/2001;C;TI;1004351340;Corozal;6/07/2016;Arquitectura
+200137540;Ortega Gonzalez;Adanyluz;;30/10/2001;C;TI;1001996063;Barranquilla;26/02/2018;Medicina
+200135576;Guerrero Medina;Maria;Jose;18/03/2002;C;TI;1193557504;Maicao;13/12/2017;Filosof�a y Humanidades
+200137134;De La Valle Negrete;Armando;David;3/04/2001;C;TI;1001993984;Barranquilla;15/11/2012;Odontolog�a
+200134937;Yepez Rodriguez;Sebastian;;3/04/2002;C;TI;1007901750;Soledad;11/07/2017;Derecho
+200134997;Zuluaga Huguett;Kevin;Daniel;28/02/2001;C;TI;1001854070;Barranquilla;6/07/2016;Administraci�n de Empresas
+200085471;Cantillo Arrieta;Dylan;Samuel;22/06/2002;C;TI;1001820511;Barranquilla;28/11/2016;Ingenier�a de sistemas
+200134458;Sandoval Ribon;Juliana;Alejandra;23/03/2002;C;TI;1005105633;Floridablanca;16/04/2016;Psicolog�a
+200135348;Fragozo Zuleta;Daniel;David;13/03/2002;C;TI;1001824661;Barranquilla;2/07/2016;Ingenier�a Mec�nica
+200134591;Gamarra Acevedo;Sharon;Gabriela;27/03/2002;C;TI;1001825737;Barranquilla;8/01/2013;Psicolog�a
+200135403;Salazar Montoya;Daniel;;26/01/2002;C;TI;1000412452;Barranquilla;30/11/2017;Medicina
+200135074;Martinez Seba;Antonio;Carlos;4/05/2000;C;CC;1193423775;Sincelejo;10/05/2018;Derecho
+200134744;Perez Lopez;Maria;Laura;14/01/2002;C;TI;1193278810;Sincelejo;8/01/2010;Administraci�n de Empresas
+200134361;Perez Campo;Carlos;Daniel;5/04/2002;C;TI;1006616218;Morroa;30/05/2009;Medicina
+200136209;Castilla Paba;Juan;Camilo;22/08/2001;C;TI;1005570312;Sincelejo;18/11/2010;Derecho
+200135591;Ortega Navarro;Mariana;;4/12/2002;C;TI;1007124383;Baranoa;20/09/2018;Medicina
+200134224;Goldfarb Escobar;Rafael;Antonio;9/01/2002;C;TI;1001946077;Sabanalarga;25/11/2016;Ingenier�a Electr�nica
+200135596;Rivera Herrera;Jose;Alejandro;5/05/2001;C;TI;1002210114;Barranquilla;18/01/2016;Ingenier�a civil
+200134625;Rodriguez Altamar;Nathalia;;2/12/2001;C;TI;1001916254;Barranquilla;4/12/2009;Arquitectura
+200136318;Padilla Lince;Jorge;Mario;12/12/2001;C;TI;1001996192;Barranquilla;22/06/2016;Ingenier�a Mec�nica
+200134305;Gomez Martinez;Hernan;Dario;24/05/2001;C;TI;1001911353;Arauca;4/03/2016;Ingenier�a civil
+200136909;Gonzalez Altamar;Kevin;David;19/07/2000;C;CC;1002230190;Puerto Colombia;1/08/2018;Ingenier�a civil
+200044473;Arevalo Montilla;Jesus;David;18/10/2001;C;TI;1001945139;Barranquilla;13/09/2016;Ingenier�a de sistemas
+200135962;Perez Perez;Steven;David;22/04/2002;C;TI;1001825462;Soledad;9/01/2018;Ingenier�a Industrial
+200135600;Silva Cantillo;Maria;Alejandra;17/08/2001;C;TI;1001821847;Barranquilla;23/01/2016;Arquitectura
+200137313;Miranda Rebolledo;Enrique;Jose;28/12/2001;C;TI;1001819189;Barranquilla;26/12/2017;Ingenier�a de sistemas
+200135411;Alvarez Royero;Alexandra;Julieth;22/05/2002;C;TI;1001825628;Barranquilla;6/07/2018;Ingenier�a civil
+200137522;Meneses Gomez;Julieth;De Jesus;31/07/2001;C;TI;1001944742;Barranquilla;21/02/2018;Lic. en Pedagog�a Infantil 4a
+200135373;Polo Cardozo;Jesus;Gabriel;15/12/2001;C;TI;1001857071;Barranquilla;2/03/2017;Ingenier�a Mec�nica
+200136066;Prieto Coronell;Andrea;Paola;1/11/2001;C;TI;1002209877;Santo Tom�s;10/05/2017;Negocios Internacionales
+200094140;Villamil Navarro;Jose;Pablo;8/06/2001;C;TI;1001940156;Barranquilla;12/07/2017;Ingenier�a Electr�nica
+200137564;Tapias Paternina;Kairo;Alexander;10/08/2000;C;CC;1005874884;Valledupar;21/08/2018;Ingenier�a de sistemas
+200058048;Duque Villalba;Natalia;Andrea;20/05/2002;C;TI;1005662415;Sincelejo;10/08/2016;Comunicaci�n social
+200047084;Herrera Molinares;Oscar;Jose;29/11/2001;C;TI;1005571430;Sincelejo;6/10/2016;Ingenier�a Mec�nica
+200047073;Herrera Molinares;Luis;David;29/11/2001;C;TI;1005571431;Sincelejo;6/10/2016;Medicina
+200131907;Arrieta Tovar;Sergio;Daniel;26/08/2000;C;CC;1192816907;Barranquilla;30/08/2018;Derecho
+200134833;Manga Pardo;Diliam;Giselle;15/12/2001;C;TI;1001996090;Barranquilla;5/01/2016;Ingenier�a Industrial
+200134152;Lobo Fernandez;Maria;Jose;11/06/2002;C;TI;1002208576;Puerto Colombia;24/11/2016;Administraci�n de Empresas
+200137139;Ebratt Montes;Julian;Rafael;1/04/2002;C;TI;1007229455;Cartagena;5/01/2010;Ingenier�a Mec�nica
+200049338;Vega Torres;Jesus;David;11/09/2001;C;TI;1001821799;Barranquilla;10/07/2017;Derecho
+200079974;Puccini Rodriguez;Isabella;;20/04/2001;C;TI;1000185200;Barranquilla;23/03/2016;Derecho
+200136884;Lopez Santos;Santiago;;3/12/2001;C;TI;1001823990;Barranquilla;6/08/2018;Econom�a
+200135619;Diaz Fayad;Samit;David;1/06/2001;C;TI;1002000080;Sincelejo;19/02/2016;Negocios Internacionales
+200136442;Jativa Yaguna;Ethel;Sofia;17/09/2001;C;TI;1192795959;Villanueva;9/06/2009;Medicina
+200136563;Jimenez Jimenez;Jaireth;De Jesus;1/04/2002;C;TI;1193325754;Soledad;3/08/2018;Negocios Internacionales
+200134715;Alvarez Silva;Daniel;Alejandro;4/05/2001;C;TI;1001779117;Barranquilla;10/03/2017;Ingenier�a Mec�nica
+200136313;Morales Vergara;Laura;Maria;9/05/2000;C;CC;1002153362;Barranquilla;10/05/2018;Psicolog�a
+200134729;Hernandez Cortes;Esteban;Felipe;3/07/2000;C;CC;1192792949;Barranquilla;4/07/2018;Comunicaci�n social
+200136211;Guerra Pertuz;Abraham;David;26/01/2002;C;TI;1002209672;Barranquilla;1/04/2016;Ingenier�a Mec�nica
+200134751;Solano Marchena;Andres;Isaac;31/05/2002;C;TI;1002208857;Barranquilla;29/01/2018;Derecho
+200136389;Murillo Rocha;Camilo;Andres;3/10/2001;C;TI;1001818508;Barranquilla;28/12/2015;Medicina
+200135940;Hernandez Avila;Valentina;;7/10/1998;C;CC;1102387843;Piedecuesta;10/10/2016;Derecho
+200137031;Llanos Aragon;Maria;Fernanda;26/10/2001;C;TI;1001824731;Barranquilla;24/08/2016;Negocios Internacionales
+200135753;Lubo Villa;Kevin;Javier;21/09/2001;C;TI;1006617585;Riohacha;18/04/2018;Ingenier�a Industrial
+200137518;Marriaga Perez;Alvaro;Javier;18/11/2002;C;TI;1006579177;Riohacha;5/03/2018;Arquitectura
+200137129;Cortes Molina;Vanessa;Alexandra;15/03/2002;C;TI;1001972884;Barranquilla;26/06/2018;Derecho
+200135310;Insignares Martinez;Andrea;Carolina;24/04/2002;C;TI;1001942237;Campo De La Cruz;12/10/2016;Dise�o Gr�fico
+200134374;Prada Londo�o;Oscar;Andres;14/02/2002;C;TI;1193109654;Valledupar;13/06/2017;Ingenier�a civil
+200136590;Pana Arias;Valeria;;31/03/2002;C;TI;1003266590;Valledupar;7/11/2017;Derecho
+200134302;Garcia Gomez;Nicolas;;29/01/2002;C;TI;1003233493;Valledupar;30/06/2017;Ingenier�a civil
+200137078;Alvear Brito;Kairelys;Marcela;13/01/2002;C;TI;1006790236;San Juan Del Cesar;19/03/2009;Ingenier�a civil
+200049541;Salcedo Angelone;Laura;Sofia;5/07/2002;C;TI;1193228309;Sincelejo;4/01/2017;Psicolog�a
+200050074;Espinosa Merlano;Maria;Cecilia;30/12/2001;C;TI;1005605399;Sincelejo;10/08/2016;Administraci�n de Empresas
+200132112;Garcia Martelo;Paola;;25/09/1998;C;CC;1083038902;Santa Marta;10/10/2016;Psicolog�a
+200134592;Hernandez Caballero;Adalgiza;Maria;17/01/2002;C;TI;1006889247;Maicao;28/08/2017;Relaciones Internacionales
+200136439;Dominguez Diaz;Jean;Steven;2/01/2001;C;TI;1192796434;Barranquilla;19/04/2018;Geolog�a
+200136524;Bustos Usta;David;Amir;29/01/2002;C;TI;1002155789;Barranquilla;12/02/2016;Geolog�a
+200134333;Mendoza Lamanna;Valeria;Vanessa;4/12/2001;C;TI;1001941995;Barranquilla;5/01/2016;Derecho
+200136081;Noriega Pati�o;Maria;Alejandra;5/06/2001;C;TI;1001821581;Barranquilla;9/07/2010;Derecho
+200136195;Char Martinez;Daniela;Lucia;19/02/2002;C;TI;1001941212;Barranquilla;25/11/2014;Ingenier�a Industrial
+200137137;Duran Mariota;Melissa;Andrea;9/06/2001;C;TI;1193588791;Barranquilla;13/09/2018;Derecho
+200137204;Rojas Villar;Anyella;De Jesus;21/08/2001;C;TI;1001822578;Barranquilla;23/09/2016;Arquitectura
+200128774;Lozano Roa;Vanessa;Alejandra;6/02/2002;C;TI;1001940626;Barranquilla;29/01/2010;Negocios Internacionales
+200137381;Coronado Puello;Issac;David;17/04/2000;C;CC;1193245770;Barranquilla;10/05/2018;Derecho
+200051430;Crespo Parra;Maria;Jose;22/05/2001;C;TI;1002208720;Barranquilla;25/06/2015;Comunicaci�n social
+200135686;Gale Polo;Carlos;Andres;3/08/2001;C;TI;1001996082;Barranquilla;22/12/2015;Negocios Internacionales
+200134716;Alvarez Villegas;Valeria;Sofia;17/12/2001;C;TI;1001996254;Barranquilla;14/10/2010;Arquitectura
+200135096;Garcia Acosta;German;David;27/02/2002;C;TI;1001998430;Barranquilla;16/03/2016;Medicina
+200137083;Ardila Cera;Jorge;Andres;20/02/2002;C;TI;1002157894;Barranquilla;13/01/2010;Ciencia Pol�tica y Gobierno
+200134197;Aristizabal Arbelaez;Daniel;Felipe;27/08/2001;C;TI;1002210424;Barranquilla;1/12/2015;Ingenier�a Industrial
+200136254;O�ate Vidal;Ivanna;Paola;1/03/2001;C;TI;1193220560;Barrancas;13/01/2017;Medicina
+200134256;Ruge Cabra;Juan;Pablo;9/07/2001;C;TI;1002208433;Puerto Colombia;18/11/2016;Arquitectura
+200134219;Galvan Rincon;Luisa;Maria;10/12/1999;C;CC;1001994446;Barranquilla;14/12/2017;Ingenier�a Mec�nica
+200136980;Ebrath Lesmes;Mercedes;Maria;22/09/2000;C;CC;1192778060;Puerto Colombia;18/10/2018;Relaciones Internacionales
+200136652;Fortich Viadero;Marvin;Andres;13/06/1999;C;CC;1140902918;Barranquilla;15/06/2017;Administraci�n de Empresas
+200136692;Parra Tobias;Angie;Carolina;17/12/2001;C;TI;1002234833;Malambo;26/02/2016;Enfermer�a
+200135239;Acosta Daza;Claudia;Elena;6/04/2001;C;TI;1192904750;San Juan Del Cesar;26/06/2015;Comunicaci�n social
+200135782;Rodriguez Vera;Daniela;;26/03/2002;C;TI;1001824807;Barranquilla;20/11/2009;Medicina
+200134411;Carbonell Solano;Isabella;;11/08/2001;C;TI;1001993966;Barranquilla;29/12/2015;Negocios Internacionales
+200134470;Triana Castellon;Maria;Emma;10/07/2001;C;TI;1193420135;Barranquilla;26/03/2018;Comunicaci�n social
+200134402;Barreneche Pinzon;Nathalie;;28/01/2002;C;TI;1002157432;Barranquilla;24/06/2016;Derecho
+200049799;Vergara Paternina;Gilma;Isabel;3/01/2002;C;TI;1005605389;Sincelejo;12/01/2018;Ciencia Pol�tica y Gobierno
+200050561;Aleman Hernandez;Carolina;Maria;7/01/2002;C;TI;1005663352;Sincelejo;19/05/2016;Medicina
+200047964;Paniagua Cohen;Laura;Sofia;15/12/2001;C;TI;1005661538;Morroa;1/03/2016;Derecho
+200050519;Santamaria Arrieta;Samantha;;7/05/2002;C;TI;1005572123;Sincelejo;18/04/2018;Negocios Internacionales
+200049930;Montalvo Otero;Valeria;Lucia;13/03/2002;C;TI;1193579223;Sampues;24/11/2016;Derecho
+200134720;Barros Gonzalez;Alejandra;Liceth;30/06/2001;C;TI;1006887711;Maicao;6/07/2015;Negocios Internacionales
+200134532;Mendoza Contreras;Daniel;Enrique;26/09/2001;C;TI;1002132210;Barranquilla;13/07/2016;Ingenier�a de sistemas
+200099565;Murillo Ariza;Kenny;Javier;19/10/2001;C;TI;1001914368;Barranquilla;4/03/2016;Ingenier�a civil
+200136928;Molina Nu�ez;Samuel;Elias;4/01/2001;C;TI;1193419601;Barranquilla;26/04/2018;Ingenier�a Mec�nica
+200135601;Torres Rada;Isabella;Johana;14/06/2002;C;TI;1001997462;Barranquilla;26/01/2010;Arquitectura
+200136589;Palacio Bastos;Claudia;Marcela;15/09/2001;C;TI;1001821688;Barranquilla;6/12/2010;Arquitectura
+200134677;Convers Vargas;Nicolas;;24/05/2000;C;CC;1010062240;Barranquilla;31/05/2018;Relaciones Internacionales
+200137185;Ochoa Solano;Santiago;Jesus;21/12/2000;C;TI;1002162493;Barranquilla;24/01/2013;Derecho
+200134225;Hernandez Vasquez;Hery;William;7/01/2001;C;TI;1193377225;Barranquilla;4/11/2016;Ingenier�a Mec�nica
+200137252;Cabrera Silva;Andres;David;20/03/2002;C;TI;1193222988;Bosconia;21/06/2018;Ingenier�a civil
+200084407;Olmos Ramirez;Rafael;Ricardo;27/06/2001;C;TI;1001825866;Barranquilla;2/12/2015;Medicina
+200136140;Dominguez Martinez;Nicole;;5/12/2002;C;TI;1001825296;Barranquilla;2/08/2017;Negocios Internacionales
+200136205;Barros Torres;Laura;Marcela;7/05/2002;C;TI;1001780458;Barranquilla;28/04/2018;Dise�o Gr�fico
+200137327;Navarro Valiente;Maria;Gabriela;1/07/2002;C;TI;1007123641;Sabanalarga;5/01/2018;Derecho
+200134680;Cuesta Niebles;Isabella;Andrea;1/09/2002;C;TI;1001933577;Sabanalarga;21/01/2010;Ingenier�a de sistemas
+200136196;Machacon Barrios;Madeleine;;7/11/2001;C;TI;1193583492;Sabanalarga;3/03/2011;Comunicaci�n social
+200134159;Meza Navarro;Adrian;De Jesus;23/01/2003;C;TI;1001933678;Sabanalarga;8/05/2015;Psicolog�a
+200137533;Naranjo Padilla;Laura;Marcela;1/11/2001;C;TI;1001825950;Sabanalarga;9/01/2018;Psicolog�a
+200137032;Manjarres De La Cruz;Ivanna;Gabriella;15/04/2001;C;TI;1001853409;Barranquilla;22/01/2010;Medicina
+200135955;Orozco Orozco;Valentina;Rosa;23/01/2001;C;TI;1193419546;Barranquilla;19/06/2015;Ingenier�a civil
+200136648;Cortes Pi�eros;Sophia;;29/03/2002;C;TI;1001825315;Barranquilla;29/06/2010;Comunicaci�n social
+200102945;Lara Bayona;Juan;Sebastian;21/09/2001;C;TI;1002211591;Barranquilla;9/12/2015;Ingenier�a Industrial
+200136534;Chavarro Vence;Daniel;Alejandro;13/08/2001;C;TI;1001852081;Barranquilla;10/01/2017;Negocios Internacionales
+200134538;Solano Silvera;Sebastian;;6/10/2001;C;TI;1002000580;Barranquilla;21/09/2016;Econom�a
+200134343;Cepeda Tamara;Eduardo;Carlos;12/07/2001;C;TI;1002211839;Barranquilla;13/09/2016;Administraci�n de Empresas
+200134907;Buitrago Ramirez;Santiago;;20/04/2002;C;TI;1002210283;Barranquilla;25/11/2009;Ingenier�a Industrial
+200066832;Varela Choperena;Giselle;Paola;1/06/2001;C;TI;1002000057;Barranquilla;6/11/2015;Ingenier�a Industrial
+200136309;Mendoza Perez;Ricardo;Andres;10/05/2000;C;TI;1004372639;Santa Marta;9/10/2014;Dise�o Gr�fico
+200137274;Garcia Guerrero;Elian;Andres;6/04/2000;C;CC;1001897599;Bogot� D.C.;5/07/2018;Psicolog�a
+200135562;Barrios Ortiz;Rosangelica;;10/02/2001;C;TI;1003383844;Valledupar;2/09/2015;Relaciones Internacionales
+200136777;Olivero Mojica;Mariana;;7/10/2002;C;TI;1003236003;Valledupar;14/12/2017;Psicolog�a
+200136044;Dederle Casas;Katherine;;4/06/2001;C;TI;1002154585;Barranquilla;23/09/2017;Psicolog�a
+200134686;Fayad Nader;Melissa;;7/02/2002;C;TI;1001781225;Barranquilla;11/05/2017;Comunicaci�n social
+200136285;Becerra Carrillo;Maria;Jose;9/06/2000;C;CC;1003241080;Valledupar;5/07/2018;Arquitectura
+200048588;Hernandez Lopez;Marcela;Vanessa;29/12/2001;C;TI;1001823375;Barranquilla;13/05/2016;Ingenier�a de sistemas
+200135049;Rodas Gutierrez;Valentina;;3/10/2001;C;TI;1002158816;Barranquilla;29/06/2016;Dise�o Gr�fico
+200136522;Brochero Delgado;Natalia;;11/01/2002;C;TI;1002155518;Barranquilla;16/07/2010;Ciencia Pol�tica y Gobierno
+200134437;Ochoa Caballero;Natalia;Duvsay;14/12/2001;C;TI;1002158900;Barranquilla;13/06/2017;Derecho
+200135005;De La Hoz Suarez;Paula;Andrea;16/11/2001;C;TI;1001946365;Barranquilla;15/12/2016;Medicina
+200134847;Abello Bustamante;Maria;Gabriella;8/05/2002;C;TI;1001915823;Barranquilla;31/08/2018;Derecho
+200135375;Ruidiaz Morales;Jorge;Alejandro;7/06/2001;C;TI;1007575259;Cartagena;13/12/2013;Negocios Internacionales
+200135048;Rivaldo Decoteau;Sarah;Vanessa;20/04/2002;C;TI;1002210372;Barranquilla;18/04/2018;Lenguas Modernas y Cultura
+200135438;Alvarez Mu�oz;Carlos;Eduardo;11/07/2002;C;TI;1001903903;Barranquilla;3/01/2017;Ingenier�a Mec�nica
+200135583;Mendoza Arango;Juan;Camilo;14/09/2001;C;TI;1001821765;Santo Tom�s;6/04/2018;Psicolog�a
+200134299;Fontalvo Reniz;Vanessa;;11/12/2001;C;TI;1001995872;Barranquilla;19/04/2018;Ingenier�a de sistemas
+200134622;Redondo Martinez;Alejandra;;21/09/2001;C;TI;1001818103;Barranquilla;2/07/2016;Psicolog�a
+200134912;Pallares Garcia;Nikoll;Valentina;18/04/2002;C;TI;1001945245;Barranquilla;16/08/2016;Derecho
+200136300;Hernandez Franco;Laura;Sofia;1/02/2002;C;TI;1001853642;Barranquilla;20/04/2017;Negocios Internacionales
+200135343;Borja Leon;Ariana;Carolina;19/01/2001;C;TI;1001855934;Barranquilla;15/05/2009;Medicina
+200136437;Consuegra Ojeda;Dailyn;Dayana;4/01/2002;C;TI;1001882236;Barranquilla;26/09/2018;Geolog�a
+200114128;Bello Florez;Daniel;Esteban;23/07/2001;C;TI;1000473984;Bogot� D.C.;21/01/2010;Dise�o Gr�fico
+200042945;Mendoza Alvarez;Marcia;Daniela;2/04/2002;C;TI;1002159393;Barranquilla;27/04/2016;Comunicaci�n social
+200079973;Pinto Jimenez;Juan;Diego;24/11/2001;C;TI;1002209100;Barranquilla;27/04/2018;Negocios Internacionales
+200094314;Arellano Reyes;Martin;Arturo;12/01/2002;C;TI;1003865014;Malambo;19/02/2016;Ingenier�a Mec�nica
+200114197;Chicre Moreno;Halil;Yused;5/05/2001;C;TI;1001788237;Galapa;21/11/2014;Ingenier�a Industrial
+200135241;Ardila Morales;Carlos;Ivan;25/04/2002;C;TI;1002159620;Barranquilla;10/10/2012;Ingenier�a Mec�nica
+200134230;Llerena Doria;Maria;Fernanda;16/12/2000;C;TI;1010006453;Barranquilla;13/06/2017;Derecho
+200136228;Arraut Navarro;Gabriela;;16/05/2002;C;TI;1001887286;Soledad;16/02/2017;Comunicaci�n social
+200134450;Rodriguez Vera;Isabella;;28/02/2002;C;TI;1001854463;Barranquilla;11/07/2016;Negocios Internacionales
+200134410;Benavides Vasquez;Nicolas;Enrique;3/12/2001;C;TI;1002209793;Barranquilla;19/12/2016;Ingenier�a Industrial
+200136781;Ruiz Arzuza;Maria;Carolina;10/11/2001;C;TI;1010024419;Barranquilla;22/11/2010;Medicina
+200136230;Bedoya Villegas;Jose;Alejandro;4/04/2002;C;TI;1001823774;Barranquilla;4/01/2017;Ingenier�a Mec�nica
+200137257;Cardenas Arguello;Camilo;Andres;29/01/2002;C;TI;1005661559;Barranquilla;15/02/2016;Derecho
+200134306;Gomez Reyes;Juan;Sebastian;8/12/2000;C;TI;1005890823;Barranquilla;3/07/2015;Ingenier�a Electr�nica
+200136649;Diaz Chacon;Luis;Carlos;26/05/1999;C;CC;1067965842;Monteria;30/05/2017;M�sica
+200134679;Cotrino Arias;Valentina;;3/06/2000;C;CC;1193375429;Barranquilla;6/06/2018;Ingenier�a Industrial
+200135326;Gonzalez Galiano;Rina;Lucia;17/01/2000;C;CC;1004372553;Bogot� D.C.;16/02/2018;Derecho
+200135960;Parra Rincon;Angie;Daniela;31/01/2001;C;TI;1005297918;Barranquilla;10/07/2015;Contadur�a P�blica
+200134235;Marrugo Jimeno;Valeria;;21/04/2001;C;TI;1007126618;Cartagena;13/02/2012;Negocios Internacionales
+200136873;Barrios Rodriguez;Daniel;De Jesus;13/10/2000;C;TI;1002153286;Barranquilla;16/10/2018;Ingenier�a Mec�nica
+200136906;Varela Martinez;Elias;David;7/11/2001;C;TI;1007209595;Cartagena;11/10/2013;Negocios Internacionales
+200058168;Fadul Rubio;Maria;Jose;15/04/2002;C;TI;1001876185;Barranquilla;9/07/2016;Derecho
+200136730;Lubo Arvilla;Alexa;Edith;12/02/2002;C;TI;1007040822;Barranquilla;14/01/2013;Comunicaci�n social
+200134860;Moreno Blanco;Wendy;Paola;3/10/2001;C;TI;1001879164;Barranquilla;7/10/2006;Psicolog�a
+200112431;Alvarez Marulanda;Maria;Victoria;5/04/2002;C;TI;1001916379;Barranquilla;1/06/2016;Ingenier�a Industrial
+200134976;Daza Villarreal;Ornella;;4/10/2001;C;TI;1003378724;Codazzi;27/07/2016;Negocios Internacionales
+200134417;Pacheco Mizar;Lidsay;Paule;3/03/2002;C;TI;1001825119;Barranquilla;18/02/2010;Ingenier�a Industrial
+200038375;Lafaurie Vidal;Gianella;Alexandra;18/01/2002;C;TI;1002209628;Barranquilla;26/01/2016;Medicina
+200137465;Alonso Turizo;Ivan;Jose;13/09/2000;C;TI;1193478431;Barranquilla;14/01/2015;Matem�ticas
+200137183;Nieto Ochoa;Isabella;Sajaty;25/03/2002;C;TI;1002160066;Barranquilla;9/09/2016;Administraci�n de Empresas
+200137238;Alvarez Barroso;Adriana;Marcela;28/08/2001;C;TI;1002209147;Barranquilla;14/09/2008;Ingenier�a Mec�nica
+200131092;Morales Cervantes;Angela;Sofia;25/11/2000;C;TI;1192781624;Envigado;10/12/2015;Ingenier�a El�ctrica
+200094337;Vallejo Mu�oz;David;Alfonso;25/03/2002;C;TI;1002158307;Barranquilla;19/11/2016;Medicina
+200080563;Robles O�oro;Julian;Andres;31/01/2000;C;CC;1010095960;Barranquilla;1/02/2018;Ingenier�a civil
+200137284;Herrera Palmera;Leonardo;Luis;9/11/2001;C;TI;1001781359;Barranquilla;2/03/2016;Ingenier�a de sistemas
+200136342;Miranda Galeano;Mayerlis;Paola;21/11/2001;C;TI;1001853141;Barranquilla;8/09/2017;Ingenier�a civil
+200135362;Mu�oz Ruiz;Steven;;12/03/2002;C;TI;1002157863;Barranquilla;19/11/2012;Matem�ticas
+200137057;Villa Vergara;Camilo;Andres;20/09/2001;C;TI;1001821668;Barranquilla;21/04/2010;Ingenier�a Industrial
+200137515;Manjarres Martinez;Erika;Esther;24/10/2002;C;TI;1001781408;Barranquilla;4/01/2011;Negocios Internacionales
+200135785;Trocha Manosalva;Neymer;David;17/11/2001;C;TI;1002030403;Barranquilla;1/02/2018;Ingenier�a Electr�nica
+200134304;Gomez Corena;Sebastian;;20/03/2002;C;TI;1003435555;Barranquilla;19/05/2016;Medicina
+200137387;Domenech Villaveces;Dimas;;22/09/2001;C;TI;1001825424;Barranquilla;22/11/2017;Dise�o Gr�fico
+200136998;Nieto Carbonell;Emmanuel;Ivan;26/04/2002;C;TI;1002155263;Barranquilla;6/12/2016;Medicina
+200136319;Perez Hamburger;Eduardo;Jose;29/06/2001;C;TI;1001824312;Cienaga;14/12/2015;Ingenier�a de sistemas
+200136882;Gutierrez Atuesta;Jesus;David;14/11/2001;C;TI;1001995378;Barranquilla;24/07/2018;Negocios Internacionales
+200137259;Cardona Escobar;Daniela;Andrea;6/01/2002;C;TI;1002209648;Barranquilla;15/12/2009;Dise�o Industrial
+200134229;Latorre Urbina;Milfed;Eduardo;25/08/2000;C;TI;1007470550;Valledupar;7/09/2011;Derecho
+200136733;Pe�a Paez;Diego;;13/09/2000;C;TI;1001972266;Cartagena;10/12/2014;Comunicaci�n social
+200137081;Apresa Echeverria;Andres;Jair;23/03/2000;C;CC;1002157451;Barranquilla;26/04/2018;Dise�o Gr�fico
+200128651;Barrios Caballero;Daniela;;5/09/2000;C;CC;1001851125;Barranquilla;12/09/2018;Lenguas Modernas y Cultura
+200135579;Maestre Martinez;Maria;Marcela;24/02/2001;C;TI;1003244080;Valledupar;19/01/2016;Contadur�a P�blica
+200134561;Ortega Altamar;Diego;Andres;26/01/2002;C;TI;1001996370;Barranquilla;7/12/2016;Ingenier�a Electr�nica
+200136658;Garcia Villalobos;Elias;David;7/07/2001;C;TI;1002212950;Barranquilla;26/01/2016;Derecho
+200135127;Molina Osorio;Juan;David;22/03/2002;C;TI;1002210233;Barranquilla;13/09/2013;Ingenier�a Mec�nica
+200134626;Rodriguez Bautista;Isabella;;4/01/2002;C;TI;1003377780;Codazzi;3/01/2018;Medicina
+200135253;Garcia Guerrero;Santiago;David;13/09/2001;C;TI;1001856855;Barranquilla;24/11/2017;Ingenier�a de sistemas
+200135655;Rodriguez Carmona;Jose;Alejandro;27/01/2002;C;TI;1001996516;Barranquilla;18/11/2014;Ingenier�a civil
+200136566;Lazala Perez;Paula;Andrea;24/06/2002;C;TI;1003067026;Lorica;22/11/2016;Negocios Internacionales
+200136169;Medina Hernandez;Moises;David;2/05/2001;C;TI;1001944486;Barranquilla;6/01/2017;Ingenier�a Mec�nica
+200134448;Rodriguez Leones;Andre;De Jesus;30/01/2002;C;TI;1002157469;Barranquilla;3/02/2016;Ingenier�a Mec�nica
+200066008;Cervantes Jimenez;Julian;Felipe;28/01/2002;C;TI;1002013397;Puerto Colombia;10/01/2018;Administraci�n de Empresas
+200136924;Ebratt Ariza;Shannon;Alexandra;4/03/2002;C;TI;1002157945;Barranquilla;9/04/2018;Dise�o Gr�fico
+200066025;Machado Rodriguez;Paula;Andrea;8/12/2001;C;TI;1002092609;Barranquilla;20/02/2018;Arquitectura
+200137166;Marquez Corredor;Sonia;Smith;23/10/2001;C;TI;1001854357;Barranquilla;27/05/2013;Comunicaci�n social
+200137085;Arias Vergara;Michael;Alberto;12/04/2002;C;TI;1001825400;Barranquilla;4/08/2010;Dise�o Gr�fico
+200135277;Rocha Perez;Valeria;Daneisy;31/01/2002;C;TI;1002163706;Barranquilla;5/07/2012;Comunicaci�n social
+200137555;Ramirez Moreno;Josue;Daniel;16/09/2001;C;TI;1004474594;Barranquilla;9/04/2018;Ingenier�a Industrial
+200094380;Vargas Echeverri;Fabian;Andres;25/07/2001;C;TI;1001944772;Barranquilla;20/09/2017;Ingenier�a de sistemas
+200098588;Cortes Camargo;Arantxa;;25/05/2001;C;TI;1000185587;Bogot� D.C.;10/09/2008;Ingenier�a Industrial
+200080020;Alvarado Palacio;Juan;Felipe;6/10/2001;C;TI;1002158960;Barranquilla;16/03/2016;Ingenier�a Industrial
+200099051;Rojas Guerrero;Ilam;;14/04/2001;C;TI;1146542562;Barranquilla;9/05/2017;Ingenier�a de sistemas
+200079968;Cortes Carrascal;Lucia;Margarita;7/07/2002;C;TI;1000593349;Montelibano;20/01/2011;Medicina
+200098869;Granada Amezquita;Laura;Vanessa;14/12/2001;C;TI;1001915244;Barranquilla;23/12/2015;Psicolog�a
+200134138;Buvoli Espitia;Lucianna;Sofia;27/01/2002;C;TI;1003066501;Lorica;3/06/2011;Derecho
+200135821;Florez Sarmiento;Sebastian;Andres;7/09/2001;C;TI;1001821673;Barranquilla;7/10/2015;Ingenier�a Electr�nica
+200136164;Castro Pallares;Mario;Andres;12/08/2002;C;TI;1193586725;Barranquilla;28/04/2017;Ingenier�a civil
+200043520;Cerra Julio;Catalina;Rosa;9/02/2002;C;TI;1007565103;Barranquilla;7/07/2010;Geolog�a
+200136853;Prada Lindo;Juliana;Alejandra;8/08/2001;C;TI;1001947526;Barranquilla;10/08/2018;Negocios Internacionales
+200137200;Restrepo Florian;Jessica;Jeatmara;3/12/2000;C;TI;1002211902;Barranquilla;17/06/2015;Ingenier�a civil
+200136782;Silva Guerra;Paula;Andrea;1/10/2001;C;TI;1002026862;Barranquilla;10/02/2016;Negocios Internacionales
+200135346;Eljach Ulloque;Nataly;Valentina;4/09/2001;C;TI;1002031545;Barranquilla;16/06/2016;Negocios Internacionales
+200124969;Blanco Escobar;Valentina;Valeria;1/07/2001;C;TI;1001995044;Maicao;2/08/2017;Medicina
+200136386;Gutierrez Otalora;Camilo;Andres;4/10/2001;C;TI;1193245717;Santa Ana;7/01/2016;Ingenier�a civil
+200136899;Parra Almarales;Katherine;;17/02/2000;C;CC;1007661597;Floridablanca;26/04/2018;Relaciones Internacionales
+200134725;Celedon Correa;Mariana;;21/12/2000;C;TI;1193029729;Santa Marta;8/07/2015;Lic. en Pedagog�a Infantil 4a
+200136144;Ordo�ez Bonilla;Jose;Carlos;6/03/2000;C;CC;1004344986;Barranquilla;4/05/2018;Administraci�n de Empresas
+200136618;Vega Drago;Gabriela;;8/06/2001;C;TI;1002207690;Barranquilla;11/04/2016;Psicolog�a
+200081716;Vanegas Olmedo;Daniela;Andrea;9/08/2002;C;TI;1002130644;Barranquilla;5/04/2017;Negocios Internacionales
+200135263;Llerena Lanchero;Santiago;;12/04/2002;C;TI;1001853859;Barranquilla;1/06/2018;Medicina
+200137488;De Avila Rueda;Anibal;Antonio;8/09/2003;C;TI;1046692979;Barranquilla;30/01/2018;Ingenier�a Electr�nica
+200137289;Lascarro Camacho;Daniel;Eduardo;24/11/2001;C;TI;1002209792;Soledad;9/12/2015;Derecho
+200137089;Ayala Arias;Gabriel;Jose;17/09/2001;C;TI;1004176554;Barranquilla;14/01/2016;Matem�ticas
+200134704;Vega Slyvna;Nastia;;26/05/2001;C;TI;1001821509;Puerto Colombia;5/02/2018;Medicina
+200137276;Guerrero Borja;David;Jose;14/02/2002;C;TI;1002209682;Barranquilla;14/05/2010;Administraci�n de Empresas
+200135513;Caicedo Rambal;Wilmar;David;18/02/2002;C;TI;1002157960;Barranquilla;27/06/2016;Ingenier�a Electr�nica
+200134446;Robles Fuentes;Juan;Camilo;10/04/2002;C;TI;1006680407;San Juan Del Cesar;26/12/2016;Ingenier�a Mec�nica
+200136216;Rueda Arenis;Manuel;Alonso;9/10/2001;C;TI;1002029840;Barranquilla;4/12/2015;Ingenier�a Mec�nica
+200137508;Ladeus Cubides;Daniel;David;27/07/2002;C;TI;1001822825;Barranquilla;12/08/2013;Ingenier�a Electr�nica
+200137545;Pabon Theran;Loana;Alejandra;14/11/2000;C;TI;1006571046;Barranquilla;8/07/2015;Contadur�a P�blica
+200136303;Insignares Guerrero;Juan;David;6/01/2001;C;TI;1193123364;Santa Marta;2/12/2015;Geolog�a
+200137214;Santamaria Albus;Geomar;Daniela;13/05/2001;C;TI;1002161894;Barranquilla;23/11/2015;Comunicaci�n social
+200134311;Gonzalez Valle;Valentina;;10/10/2001;C;TI;1000336010;Barranquilla;6/01/2017;Dise�o Industrial
+200135574;Gonzalez Benitez;Sebastian;Enrique;15/12/2001;C;TI;1002158560;Barranquilla;13/01/2016;Ingenier�a de sistemas
+200135565;Campanella De Oro;Juan;Jose;14/10/2001;C;TI;1002209911;Barranquilla;23/01/2016;Ingenier�a de sistemas
+200098786;Zambrano Lacouture;Ricardo;Jose;30/05/2001;C;TI;1002154588;Barranquilla;15/07/2016;Ingenier�a Electr�nica
+200067550;Acevedo Molina;Roberto;Carlo;15/06/2002;C;TI;1001825277;Barranquilla;17/11/2017;Negocios Internacionales
+200079896;Rojas Guerra;Emilio;Andres;17/09/2000;C;CC;1010015699;Barranquilla;24/09/2018;Administraci�n de Empresas
+200099052;Pulecio Forero;Stephanie;Michell;11/09/1999;C;CC;1234096529;Barranquilla;15/05/2018;Derecho
+200079813;Blanco Amador;Isaac;Alejandro;20/02/2001;C;TI;1001820876;Barranquilla;18/10/2016;Ingenier�a de sistemas
+200079898;Solano Angarita;Maria;Alejandra;16/06/2001;C;TI;1001856498;Barranquilla;19/11/2015;Negocios Internacionales
+200067555;Polo Lopez;Jaime;Andres;8/09/2001;C;TI;1001913872;Soledad;13/04/2018;Ingenier�a Industrial
+200081836;Tapia Jimenez;Victoria;Angeline;28/12/2001;C;TI;1002026859;Barranquilla;25/04/2018;Relaciones Internacionales
+200135211;Gomez Castro;Ligia;Maria;1/06/2002;C;TI;1003368074;Lorica;2/06/2009;Derecho
+200135658;Tovar Perez;Vanessa;;3/08/2001;C;TI;1001900169;Cartagena;9/09/2016;Derecho
+200135256;Gutierrez Pereira;Juan;Jose Tadeo;18/06/2001;C;TI;1006989063;Cartagena;27/08/2012;Ingenier�a civil
+200136934;Roca Ariza;Juan;Pablo;2/05/2002;C;TI;1001968820;Cartagena;20/06/2016;Ingenier�a El�ctrica
+200134987;Pajaro Alvarez;Laura;Victoria;19/02/2002;C;TI;1001972744;Turbaco;19/04/2016;Ingenier�a Industrial
+200137395;Velasco De La Hoz;Gina;Paola;29/11/2001;C;TI;1001823535;Barranquilla;15/06/2016;Derecho
+200031609;Duque Torres;Angela;Maria;1/10/2001;C;TI;1002343855;Barranquilla;13/10/2010;Derecho
+200137290;Leon Perez;Isabella;;13/09/2001;C;TI;1002190881;Barranquilla;19/04/2016;Dise�o Industrial
+200137075;Alcala Barrios;Nicolle;Carolina;2/04/2002;C;TI;1043677396;Barranquilla;15/10/2014;Psicolog�a
+200136304;Lopez Galvis;Ivan;Ramiro;5/12/2000;C;TI;1193414565;Bogot� D.C.;21/01/2015;Dise�o Gr�fico
+200048400;Polo Hernandez;Juan;Jose;16/04/2000;C;CC;1007183596;Barranquilla;20/04/2018;Administraci�n de Empresas
+200136150;Romero Molano;Andres;Camilo;18/12/2000;C;TI;1027150241;Barranquilla;4/08/2016;Comunicaci�n social
+200135556;Toncel Julliard;Pedro;Miguel;21/12/1999;C;CC;1192770115;Barranquilla;3/01/2018;Psicolog�a
+200117589;Romero Solano;Santiago;;14/04/2000;C;CC;1002153641;Barranquilla;18/04/2018;M�sica
+200136388;Mu�oz Cheu;Carlos;Andres;8/05/2001;C;TI;1004348090;Barranquilla;24/06/2016;Negocios Internacionales
+200112697;Cabana Orozco;Leonardo;Andres;14/12/2000;C;TI;1001851318;Barranquilla;13/04/2016;Negocios Internacionales
+200135376;Sarti Onofri;Gianfranco;;25/01/2001;C;TI;1010055513;Barranquilla;31/05/2016;Ingenier�a Mec�nica
+200134676;Cantor Jaimes;Sergio;Andres;20/11/2000;C;TI;1004346777;Barranquilla;12/04/2018;Dise�o Gr�fico
+200134169;Riedel Rojas;Yennifer;De Jesus;7/06/2002;C;TI;1005604966;Sincelejo;28/10/2016;Administraci�n de Empresas
+200134745;Perez Ramirez;Mateo;;10/01/2002;C;TI;1002209630;Barranquilla;3/12/2012;Negocios Internacionales
+200135768;Gomez Altamar;Valeria;Sofia;19/11/2001;C;TI;1002160166;Barranquilla;15/06/2016;Ingenier�a Industrial
+200136557;Gechem Garzon;Tatiana;;10/12/2001;C;TI;1002213279;Barranquilla;4/03/2016;Arquitectura
+200136461;Pertuz Lacouture;Veronica;;21/06/2002;C;TI;1004462357;Santa Marta;29/01/2018;Derecho
+200134504;Almendrales Ahcar;Layla;Karina;2/01/2002;C;TI;1001996217;Santa Marta;14/08/2017;Arquitectura
+200134300;Franco Andrade;Santiago;;12/09/2002;C;TI;1193127284;Santa Marta;26/04/2018;Medicina
+55306990;Meza Molina;Milena;Margarita;2/02/1984;C;CC;55306990;Barranquilla;23/07/2003;Lenguas Modernas y Cultura
+200137020;Cabrera Rivaldo;Juan;Fernando;7/07/2002;C;TI;1001969125;Cartagena;16/04/2018;Ingenier�a El�ctrica
+200134464;Tejedor Acosta;Daniela;Andrea;23/05/2002;C;TI;1002030361;Barranquilla;5/12/2016;Negocios Internacionales
+200136627;Alvarez Berdejo;Valeria;Auxiliadora;15/11/2001;C;TI;1002163186;Sabanagrande;9/12/2015;Geolog�a
+200135624;Florian Camargo;Danna;Celeth;29/07/2002;C;TI;1002027938;Barranquilla;5/12/2016;Negocios Internacionales
+200127863;Peralta Dau;Jose;Rafael;14/11/2000;C;TI;1193472396;Santa Marta;24/07/2015;Ingenier�a civil
+200136954;Villarreal Pedraza;Laura;;2/09/2001;C;TI;1010155445;Barranquilla;23/11/2010;Lenguas Modernas y Cultura
+200135652;Padilla Nova;Jose;Carlos;12/03/2001;C;TI;1003405404;Lorica;6/04/2015;Ingenier�a civil
+200134629;Rueda Dau;Mariana;;24/03/2001;C;TI;1003403015;Monteria;10/08/2018;Medicina
+200135410;Zapata Llanos;Santiago;;29/07/2001;C;TI;1003050252;Monteria;5/10/2015;Relaciones Internacionales
+200135214;Jaraba Parra;Juan;Javier;11/11/2000;C;TI;1003403093;Monteria;23/02/2015;Relaciones Internacionales
+200137096;Barrios Suarez;Brancys;Alexander;19/02/2003;C;TI;1002034441;Soledad;10/03/2017;Ingenier�a de sistemas
+200085836;Bilbao Siado;Juan;Sebastian;28/11/2001;C;TI;1001916266;Barranquilla;16/05/2018;Medicina
+200131675;Ochoa Mendez;Ivan;Andres;14/02/2002;C;TI;1007071131;El Carmen De Bolivar;3/07/2018;Ingenier�a civil
+200136165;Cogollo Figueroa;Mary;Cruz;8/03/2002;C;TI;1067160018;Lorica;3/12/2012;Derecho
+200134536;Rojas Guerra;Isabella;;25/03/2002;C;TI;1193560434;Valledupar;13/07/2017;Ingenier�a civil
+200134619;Molina Oviedo;Marcela;;26/06/2001;C;TI;1193526221;Valledupar;27/11/2017;Ingenier�a Industrial
+200096704;Oviedo Barrios;Daniel;Ricardo;22/10/2001;C;TI;1193278297;Magangue;26/08/2016;Ingenier�a civil
+200096687;De La Ossa Acevedo;Sara;Lucia;6/01/2002;C;TI;1002372276;Magangue;5/01/2010;Medicina
+200096681;Ali Arana;Hania;;10/10/2001;C;TI;1002370935;Magangue;16/05/2016;Derecho
+200136343;Molina Villalba;Juan;Sebastian;2/09/2000;C;CC;1007755061;Cartagena;17/09/2018;Arquitectura
+200134434;Martinez Suarez;Maria;Camila;9/06/2001;C;TI;1002244656;Cartagena;19/02/2016;Relaciones Internacionales
+200135482;Barros Puccini;Angelica;Gabriela;4/03/2000;C;CC;1007230879;Cartagena;28/03/2018;Comunicaci�n social
+200134322;Lopez Santrich;Estefany;Paola;1/12/2001;C;TI;1001853181;Barranquilla;8/01/2016;Ingenier�a Industrial
+200134246;Pardo Rodriguez;Stephanie;;22/11/2001;C;TI;1005281959;Barranquilla;24/01/2018;Dise�o Gr�fico
+200136885;Lozano Pasion;Gabriela;;26/02/2002;C;TI;1002157878;Barranquilla;19/08/2016;Negocios Internacionales
+200129976;Abdala Arenas;Isaac;Enrique;29/08/2000;C;TI;1001856452;Barranquilla;17/01/2013;Arquitectura
+200135087;Ramos Guzman;Chelsea;Andrea;22/09/2000;C;TI;1003192490;Santa Marta;6/04/2008;Negocios Internacionales
+200135721;Hoyos Duran;Maria;Jose;15/12/2001;C;TI;1002372274;Magangue;14/08/2017;Lic. en Pedagog�a Infantil 4a
+200135488;Garcia Boneth;Jorge;Armando;26/11/2000;C;TI;1192922822;San Juan Del Cesar;27/11/2015;Administraci�n de Empresas
+200133928;Casadiegos Gutierrez;Karla;Melissa;13/03/2001;C;TI;1001999473;Barranquilla;26/03/2018;Geolog�a
+200135386;Calderon Molinares;Fernando;Andres;22/04/1999;C;CC;1234097552;Barranquilla;21/12/2017;Ingenier�a de sistemas
+200133929;Hoyos Aristizabal;Sara;;11/10/2000;C;TI;1010130521;Barranquilla;30/06/2015;Administraci�n de Empresas
+200136677;Martinez Martinez;Lucas;Daniel;10/12/1999;C;CC;1010096634;Barranquilla;28/12/2017;Ingenier�a Industrial
+200134739;Ospina De La Rosa;Isabella;;27/08/2001;C;TI;1001821914;Barranquilla;28/06/2016;Psicolog�a
+200136243;Lagares Moscote;Andres;Camilo;16/02/2002;C;TI;1002244387;Cartagena;19/10/2010;Ingenier�a Mec�nica
+200137194;Pernett Cuesta;Ernesto;Segundo;20/10/2000;C;TI;1001919866;Barranquilla;18/12/2014;Ingenier�a Mec�nica
+200137338;Palacios Pe�a;Ruben;Dario;13/04/2001;C;TI;1002162251;Barranquilla;29/12/2015;Psicolog�a
+200136366;Chin Ortega;Daniela;Carolina;19/08/2001;C;TI;1002213022;Barranquilla;6/10/2015;Lic. en Pedagog�a Infantil 4a
+200134750;Sierra Gomez;Daniela;Carolina;17/10/2001;C;TI;1002092405;Barranquilla;19/10/2012;Administraci�n de Empresas
+200135356;Mancera Bohorquez;Arturo;;5/11/2001;C;TI;1002192592;Cartagena;13/01/2016;Administraci�n de Empresas
+200135302;Villa Perdomo;Isabella;;3/10/2001;C;TI;1004461869;Santa Marta;5/04/2018;Medicina
+200134613;Gomez Acevedo;Mariana;;16/05/2002;C;TI;1004161844;Santa Marta;30/06/2016;Comunicaci�n social
+200134303;Giovannetti Santos;Isabella;;20/09/2000;C;TI;1007698353;Santa Marta;20/09/2016;Dise�o Gr�fico
+200137028;Gutierrez Gonzalez;Tatiana;Victoria;23/09/2001;C;TI;1004353125;Cienaga;11/04/2016;Ingenier�a Mec�nica
+200135303;Villa Vega;Laura;Marcela;25/10/2001;C;TI;1004352951;Santa Marta;19/01/2016;Relaciones Internacionales
+200136293;Espitia Mendoza;Valentina;;16/01/2002;C;TI;1001819077;Barranquilla;7/06/2016;Geolog�a
+200134312;Gutierrez Marchena;Michelle;;7/01/2002;C;TI;1001881873;Soledad;15/01/2016;Ingenier�a de sistemas
+200136078;Logreira Trujillo;Valerie;Gladys;10/04/2001;C;TI;1001994969;Barranquilla;24/02/2016;Administraci�n de Empresas
+200136530;Castillo Fernandez;Karen;Alicia;23/11/2000;C;TI;1193588627;Valledupar;13/09/2011;Psicolog�a
+200134975;Daza Olivella;Hernan;Jose;19/02/2001;C;TI;1003382776;Valledupar;4/01/2017;Medicina
+200134595;Marquez Montero;Efrain;Jose Rafael;18/10/2000;C;TI;1192918624;Valledupar;13/01/2015;Odontolog�a
+200134701;Suarez Acevedo;Astrid;Carolina;14/04/2001;C;TI;1004347960;Santa Marta;14/10/2016;Derecho
+200137367;Torres Ospino;Rosa;Maria;17/11/2001;C;TI;1004462022;Santa Marta;28/09/2017;Ingenier�a civil
+200134754;Vergara Buendia;Juan;Luis;2/07/2002;C;TI;1003396411;Lorica;24/08/2016;Ingenier�a civil
+200134469;Torres Pupo;Andres;Felipe;7/10/1999;C;CC;1003231240;Valledupar;25/10/2017;Administraci�n de Empresas
+200134140;Cabello Henriquez;Catalina;;8/06/2001;C;TI;1002155941;Valledupar;24/11/2015;Derecho
+200135538;Maiguel Saavedra;Xelena;Patricia;15/12/2001;C;TI;1003234421;Santa Marta;21/04/2016;Ingenier�a Electr�nica
+200136903;Rodriguez Paez;Juan;Pablo;15/04/2002;C;TI;1003317712;Valledupar;23/01/2017;Ingenier�a Industrial
+200135266;Mejia Ramirez;Ivan;Ernesto;5/08/2002;C;TI;1003378463;Chimichagua;26/12/2016;Ingenier�a Mec�nica
+200136850;Osio Amaya;Andrea;Carolina;15/11/2001;C;TI;1003232719;San Diego;26/11/2015;Comunicaci�n social
+200096695;Giraldo Gordon;Wilmar;De Jesus;31/08/2001;C;TI;1002490616;Magangue;20/12/2011;Dise�o Industrial
+200096682;Aristizabal Hernandez;Maria;Paula;1/03/2002;C;TI;1002488474;Magangue;23/03/2017;Comunicaci�n social
+200135067;Llinas Montes;Jose;Rodolfo;20/04/2001;C;TI;1002248334;Cartagena;28/06/2016;Administraci�n de Empresas
+200135309;Roca Cabrera;Matheus;Elias;15/01/2001;C;TI;1001968181;Cartagena;7/10/2015;Ingenier�a civil
+200135431;Rada Tous;Juan;David;21/06/2001;C;TI;1002244681;Cartagena;27/06/2018;Arquitectura
+200134330;Mejia Caballero;Santiago;;1/10/2000;C;TI;1001974860;Turbaco;11/01/2017;Medicina
+200129954;Estupi�an Vargas;Juan;Jesus;13/10/2000;C;TI;1192768628;Barranquilla;3/12/2014;Ingenier�a Industrial
+200137098;Becerra Cotes;Sebastian;De Jesus;12/05/2001;C;TI;1192772226;Riohacha;31/08/2017;Comunicaci�n social
+200134157;Melo Gomez;Jose;Ignacio;30/11/2001;C;TI;1006615031;Riohacha;24/01/2017;Administraci�n de Empresas
+200126978;Marquez Pulgar;Sara;Patricia;10/01/2001;C;TI;1010031539;Barranqullla;19/10/2018;Comunicaci�n social
+200135390;Gomez Illera;Valentina;;29/11/1999;C;CC;1004996618;Bogot� D.C.;30/11/2017;Negocios Internacionales
+200070549;Manzanera Torrado;Luis;David;15/05/2001;C;TI;1002208844;Barranquilla;24/02/2016;Administraci�n de Empresas
+200136435;Sayed Ahmad Brito;Mahmoud;;27/10/2001;C;TI;1006892932;Maicao;15/04/2016;Administraci�n de Empresas
+200136794;Gutierrez Ferreira;Roger;Alejandro;23/03/2001;C;TI;1001821151;Barranquilla;9/06/2015;Comunicaci�n social
+200137201;Rey Barrios;Eduardo;Rafael;16/06/2001;C;TI;1001856555;Barranquilla;24/09/2012;Ingenier�a de sistemas
+200134853;Lopez Cervantes;Alfonso;Jose;22/03/2002;C;TI;1193131407;Sincelejo;25/08/2017;Medicina
+200134236;Mebarak Mancilla;Jose;Santiago;7/05/2000;C;CC;1010107512;Sincelejo;10/07/2018;Derecho
+200136374;Palmett Ariza;Victor;Rafael;5/04/2002;C;TI;1005662294;Sincelejo;29/07/2016;Ingenier�a El�ctrica
+200135408;Vargas Ramos;German;David;26/02/2002;C;TI;1002244335;Cartagena;2/12/2011;Ingenier�a de sistemas
+200136901;Rangel Paredes;Andres;Felipe;7/07/2001;C;TI;1004462013;Santa Marta;26/04/2018;Derecho
+200136639;Bonilla Aita;Paula;Andrea;29/10/1999;C;CC;1004345324;Santa Marta;26/12/2017;Administraci�n de Empresas
+200135649;Molinares Jacome;Valentina;;30/10/2000;C;TI;1193604719;San Diego;18/01/2016;Comunicaci�n social
+200048935;Benitez Carbal;Helena;Contanza;31/08/2001;C;TI;1005663606;Soledad;20/04/2018;Geolog�a
+200134724;Cantillo De La Hoz;Jose;Maria;13/03/2002;C;TI;1193643597;Santa Marta;7/12/2017;Geolog�a
+200137229;Vallejo Espinosa;Simon;;9/08/2000;C;CC;1001532287;Caucasia;13/08/2018;Econom�a
+200136372;Ni�o Lafaurie;Samar;Alexandra;22/11/2001;C;TI;1192715210;Urumita;4/09/2009;Ingenier�a civil
+200136468;Saltaren Maestre;Santiago;;21/09/2001;C;TI;1003232084;Valledupar;10/10/2016;Medicina
+200134441;Quintero Saurith;Jose;Adrian;24/06/2002;C;TI;1003234902;Valledupar;4/10/2016;Ingenier�a civil
+200137207;Rotondano Molina;Angelo;Jose;3/07/2001;C;TI;1193456375;Barranquilla;20/03/2017;Negocios Internacionales
+200137160;Llamas Algarin;Jesus;David;19/01/2001;C;TI;1192795353;Baranoa;4/12/2015;Administraci�n de Empresas
+200098787;De Las Salas Castro;Antonio;Luis;24/08/2000;C;CC;1192794926;Barranquilla;30/08/2018;Ingenier�a civil
+200135105;Gonzalez De Hoyos;Diana;Carolina;27/08/1994;C;CC;1102863667;Sincelejo;28/11/2012;Enfermer�a
+200134944;Aragon Salcedo;Jorge;Esteban De Jesus;23/10/2000;C;TI;1004424682;Santa Marta;27/10/2014;Administraci�n de Empresas
+200134931;Rodriguez Tovar;Daniela;Alexandra;12/04/2002;C;TI;1001915944;Barranquilla;4/01/2017;Dise�o Gr�fico
+200135554;Sanchez Cabarcas;Mateo;Elias;8/12/2001;C;TI;1001996255;Puerto Colombia;30/06/2011;Ingenier�a Mec�nica
+200134933;Rueda Blanco;Marco;Antonio;3/08/2001;C;TI;1193546360;Bucaramanga;12/10/2016;Ingenier�a Electr�nica
+200135123;Martinez Rincon;Juan;Manuel;1/08/2001;C;TI;1007739919;Barranquilla;15/12/2016;Ingenier�a Mec�nica
+200135723;Lopez Romero;Carlos;Andres;9/07/2001;C;TI;1193148997;Sincelejo;23/06/2017;Geolog�a
+200137035;Mejia Mancera;Roberto;Jose;3/11/2001;C;TI;1193269156;Santa Ana;12/07/2016;Arquitectura
+200137483;Cianci Suescun;Alix;Carolina;8/03/2002;C;TI;1002028823;Barranquilla;25/09/2018;Administraci�n de Empresas
+200134426;Carrillo Montealegre;Valentina;Sofia;24/04/2002;C;TI;1003066704;Lorica;23/05/2011;Derecho
+200134830;Hoyos Guerra;Neil;Isaac;2/08/2001;C;TI;1003231293;Valledupar;7/09/2016;Dise�o Gr�fico
+200135077;Baron Chavez;Sebastian;;6/05/2002;C;TI;1003379263;Valledupar;10/05/2016;Derecho
+200135529;Gomez Fontalvo;Kenneth;Ivan;23/12/2000;C;TI;1192904527;Maicao;28/04/2016;Dise�o Gr�fico
+200134888;De La Hoz Quiroz;Blanca;Nicolle;26/01/2002;C;TI;1002157631;Barranquilla;22/02/2016;Negocios Internacionales
+200118067;Plata Gutierrez;Maria;Alejandra;18/10/2001;C;TI;1001941312;Barranquilla;15/03/2016;Relaciones Internacionales
+200136327;Sanjuan Ahumada;Antonio;Bernardo;19/09/2000;C;CC;1193412088;Barranquilla;24/09/2018;Ingenier�a civil
+200136768;Gutierrez Sanchez;Valentina;Isabel;8/01/2002;C;TI;1002155813;Barranquilla;17/11/2011;Lic. en Pedagog�a Infantil 4a
+200137538;Ortega Camacho;Dilan;Manuel;22/07/2001;C;TI;1002135255;Barranquilla;29/03/2016;Ingenier�a Mec�nica
+200134461;Solano Solano;Maria;Jose;16/04/2001;C;TI;1192809793;Barrancas;29/01/2009;Medicina
+200135817;Bustamante Ballestas;Maria;Angelica;11/06/1997;C;CC;1081928898;Plato;17/06/2015;Lenguas Modernas y Cultura
+200136328;Torres Hoyos;Ana;Leivys;22/02/1996;C;CC;1143155045;Barranquilla;27/03/2014;Enfermer�a
+200136266;Torres Hoyos;Leivys;;22/02/1996;C;CC;1143155044;Barranquilla;27/03/2014;Enfermer�a
+200081838;Casta�o Velasquez;Laura;Isabel;5/11/1998;C;CC;1140899905;Barranquilla;11/11/2016;Lenguas Modernas y Cultura
+200080550;Martinez Lopez;Isabella;;11/03/1999;C;CC;1044434373;Barranquilla;18/05/2017;Comunicaci�n social
+200085098;Torres Llanos;Isabella;;4/11/2000;C;TI;1010058318;Barranquilla;1/12/2014;Negocios Internacionales
+200079654;Cure Carroll;Isabella;Maria;10/02/2000;C;CC;1192720170;Barranquilla;14/02/2018;Negocios Internacionales
+200135651;Nu�ez O�oro;Julian;David;3/12/2001;C;TI;1003233177;Valledupar;5/12/2017;Medicina
+200134841;Sabogal Bermudez;Alejandra;;20/02/2001;C;TI;1192808543;Valledupar;8/11/2016;Psicolog�a
+200134242;Morillo Travecedo;Silvia;Helena;5/09/2001;C;TI;1006680977;Valledupar;3/03/2017;Psicolog�a
+200134196;A�ez Molina;Maria;Andrea;20/07/2001;C;TI;1003316675;Valledupar;2/02/2015;Administraci�n de Empresas
+200134506;Cabas Ojeda;Luis;Angel;31/03/2002;C;TI;1003377307;Valledupar;5/06/2018;Econom�a
+200096062;Romero Rodr�guez;Luis;Daniel;21/09/2001;C;TI;1001856958;Barranquilla;5/04/2010;Ingenier�a civil
+200096063;Roncallo Ruiz;Luis;Daniel;21/02/2001;C;TI;1001999518;Barranquilla;13/12/2011;Derecho
+200096045;Angulo Aponte;Angela;Maria;24/07/1999;C;CC;1140870365;Puerto Colombia;25/07/2017;Arquitectura
+200135894;Rivas Rivas;Rosana;Saray;22/12/2001;C;TI;1005572198;Sincelejo;5/12/2017;Psicolog�a
+200135564;Calderon Dominguez;Daniel;David;25/01/2002;C;TI;1005627785;Sincelejo;14/10/2016;Ingenier�a Industrial
+200136520;Blanquicett Navarro;Eduardo;Miguel;1/03/2002;C;TI;1005661682;Sincelejo;3/12/2012;Negocios Internacionales
+200134163;Ordo�ez Arrieta;Julio;Mario;18/06/2002;C;TI;1193572424;Majagual;17/07/2017;Derecho
+200137445;Menco Perez;Kevin;Adrian;25/12/2001;C;TI;1005181990;Barrancabermeja;13/04/2016;Arquitectura
+200134449;Rodriguez Vasquez;Alberto;Andres;15/01/2002;C;TI;1002157554;Soledad;2/02/2016;Comunicaci�n social
+200137507;Iriarte Duque;Juan;Jose;3/05/2002;C;TI;1002159352;Sucre;27/01/2017;Psicolog�a
+200135442;Gonzalez Payares;Jorge;Carlos;20/03/2002;C;TI;1005571612;San Pedro;24/11/2016;Contadur�a P�blica
+200136047;Lenes Bloch;Sigifredo;Guillermo;11/04/2002;C;TI;1003127845;Barranquilla;31/08/2016;Derecho
+200137151;Gutierrez Manga;Jessica;Paola;17/05/2002;C;TI;1193043222;Soledad;9/05/2018;Enfermer�a
+200134467;Torres Navarro;Edwin;Andres;10/11/2001;C;TI;1002160179;Cartagena;13/08/2009;Ingenier�a de sistemas
+200137636;Capdevilla Molinares;Henry;Daniel;30/05/2002;C;TI;1001885623;Soledad;12/04/2018;Ingenier�a Electr�nica
+200137652;Fruto Porras;Mariana;Mishell;17/01/2002;C;TI;1002235034;Malambo;16/06/2017;Geolog�a
+200130216;Gonzalez Perez;Juan;Sebastian;10/04/1999;C;CC;1127540941;Ciudad De Panam�;16/05/2017;Psicolog�a
+200139221;Leon Hereira;Paulo;Andres;19/08/2001;C;TI;1001944245;Barranquilla;10/12/2015;Comunicaci�n social
+200136796;Gomez Perez;Carlos;Antonio;22/06/2000;C;CC;1193509392;Barranquilla;27/06/2018;Contadur�a P�blica
+200139529;Reyes Zu�iga;Juan;Camilo;14/05/1997;C;CC;1143400884;Cartagena;10/06/2015;Ingenier�a de sistemas
+200137718;Galvis Salinas;Ivana;Jibellis;30/10/1999;C;CC;1006727533;Distraccion;27/12/2017;Enfermer�a
+200137867;Arango Bustillo;Salome;;6/12/2000;C;TI;1010074174;Cartagena;28/06/2016;Negocios Internacionales
+200137760;Martinez Ballesteros;Santiago;;19/08/2001;C;TI;1002243872;Cartagena;28/03/2016;Ingenier�a civil
+200139036;Cifuentes Banda;Rosa;Maria;14/08/2001;C;TI;1003027623;Monteria;3/02/2017;Derecho
+200139558;Paternina Alvarado;Luis;Alejandro;4/04/2002;C;TI;1001853703;Barranquilla;11/09/2017;Ingenier�a El�ctrica
+200137821;Aroca Gutierrez;Ahmed;Karim;18/10/2000;C;TI;1010140544;Barranquilla;13/01/2015;Psicolog�a
+200137605;Betancourt Palacio;Maria;Monica;3/02/2001;C;TI;1001821519;Barranquilla;13/02/2015;Psicolog�a
+200137817;Villegas Imitola;Luis;Felipe;9/11/2001;C;TI;1001916265;Barranquilla;10/08/2016;Ingenier�a Mec�nica
+200066795;Gonzalez Tellez;Marianella;;27/10/2001;C;TI;1002208764;Barranquilla;16/06/2016;Ingenier�a Industrial
+200137655;Gutierrez Pabon;Lia;Margarita;16/01/2001;C;TI;1010054345;Barranquilla;13/04/2016;Psicolog�a
+200139047;Hormechea Burbano;Jhan;David Ismael;29/10/2001;C;TI;1002160038;Barranquilla;17/07/2017;Ingenier�a Electr�nica
+200139498;Blanco Donado;Juan;David;16/07/2001;C;TI;1001994487;Barranquilla;22/12/2015;Administraci�n de Empresas
+200127028;Torres Burgos;Isabella;Maria;28/02/2001;C;TI;1001868389;Sabanalarga;21/12/2016;Comunicaci�n social
+200137800;Romero Rueda;Andrea;Carolina;6/07/2002;C;TI;1001945777;Barranquilla;13/10/2011;Ingenier�a civil
+200137813;Vergara Perez;Lucia;Fernanda;3/06/2003;C;TI;1103497170;Sincelejo;6/07/2017;Medicina
+200137794;Rodriguez Escobar;Lucianna;;13/01/2001;C;TI;1193411894;Barranquilla;30/03/2017;Comunicaci�n social
+200139234;Alvarez Melendez;Yuliana;Margarita;16/10/2001;C;TI;1004374724;Cerro San Antonio;11/12/2015;Enfermer�a
+200139521;Miranda Perez;David;Mauricio;23/11/2001;C;TI;1001882150;Soledad;12/04/2016;Administraci�n de Empresas
+200139552;Gutierrez Martinez;Valentina;Marena;2/12/2001;C;TI;1004461812;Santa Marta;14/11/2017;Derecho
+200128120;Acosta Soto;Laura;Daniela;21/03/2001;C;TI;1001878224;Soledad;29/12/2015;Ciencia Pol�tica y Gobierno
+200137914;Trujillo Escobar;Jesus;Andres;14/03/2002;C;TI;1001854447;Barranquilla;12/01/2017;Dise�o Gr�fico
+200058218;Anguila Charris;Kelly;"Andrea	";15/02/2002;C;TI;1002157820;Barranquilla;21/06/2018;Comunicaci�n social
+200139161;Duran Ochoa;Yaira;Alejandra;13/09/2003;C;TI;1041890264;Algarrobo;7/05/2018;Enfermer�a
+200137789;Pizarro Campo;Fabian;De Jesus;25/01/2002;C;TI;1004273639;Fundacion;24/10/2016;Contadur�a P�blica
+200137712;Durantes Fernandez;Rafael;Enrique;18/08/2001;C;TI;1006887087;Maicao;7/07/2017;Geolog�a
+200139117;Mendoza Perez;Jose;David;21/03/2001;C;TI;1007713878;Santa Marta;27/06/2016;Econom�a
+200139040;De Lima Correa;Felipe;Andres;6/09/2001;C;TI;1002158703;Santa Marta;29/06/2016;Ingenier�a de sistemas
+200130628;Lachmann Lewis;Samuel;;18/08/2000;C;CC;1001780268;Barranquilla;21/08/2018;Negocios Internacionales
+200132096;Marimon Cabarcas;Andrea;Paola;27/12/2001;C;TI;1002209549;Barranquilla;22/12/2010;Derecho
+200137797;Rojas Escaf;Juan;Sebastian;2/04/2002;C;TI;1193055116;Sincelejo;30/06/2010;Arquitectura
+200137703;Clavijo Guerra;Maria;Jose;12/06/1999;C;CC;1093799399;Los Patios;13/06/2017;Psicolog�a
+200137642;Chasoy Vasquez;Jhonatan;Antonio;28/11/2000;C;TI;1003376196;Valledupar;12/04/2017;Ingenier�a Electr�nica
+200137884;De La Hoz Leon;Kaira;Alejandra;29/12/2001;C;TI;1001857074;Barranquilla;26/04/2018;Psicolog�a
+200137827;Buchar Gonzalez;Carlos;Jesus;29/10/2001;C;TI;1006733095;Leticia;21/12/2015;Geolog�a
+200137804;Santis Campo;Luis;Alberto;24/05/2002;C;TI;1007173774;Barranquilla;9/01/2013;Geolog�a
+200125940;Barrera Contreras;Moises;Enrique;23/09/2000;C;TI;1003230769;Valledupar;11/08/2016;Ingenier�a Industrial
+200137733;Gonzalez Diaz;Nicolas;;8/11/2000;C;TI;1000179694;Barranquilla;2/12/2016;Ingenier�a civil
+200078583;Sanchez Polo;David;Alejandro;9/04/2002;C;TI;1001780440;Barranquilla;29/06/2016;Econom�a
+200081452;Lopez Gonzalez;Miguel;Angel;21/02/2002;C;TI;1193604338;Barranquilla;7/09/2015;Ingenier�a Industrial
+200085078;Roldan Sining;Jorge;Eliecer;12/10/2001;C;TI;1002025085;Barranquilla;11/10/2016;Ingenier�a civil
+200137678;Porto Rodriguez;Alejandra;Marcela;24/04/2002;C;TI;1001833418;Cartagena;22/02/2018;Dise�o Industrial
+200139006;Roberto Meza;Luisa;Alejandra;18/03/2002;C;TI;1006576322;Dibulla;5/05/2016;Ingenier�a El�ctrica
+200139126;Rojas Duran;Daniel;Steven;5/09/2001;C;TI;1002027434;Barranquilla;13/01/2010;Contadur�a P�blica
+200139200;Padilla Pineda;Valeria;Michelle;14/02/2002;C;TI;1001818020;Barranquilla;2/03/2016;Contadur�a P�blica
+200130627;Jimenez Lopez;Ana;Gabriel;15/11/2002;C;TI;1002211220;Barranquilla;7/06/2017;M�sica
+200130921;Hernandez Castro;Isabella;;4/12/2000;C;TI;1103496949;Sincelejo;21/05/2013;Odontolog�a
+200137861;Tarabein Omairi;Nuur;Khaled;4/03/2001;C;TI;1001817867;Barranquilla;18/01/2018;Ingenier�a Industrial
+200066785;Ballestas De la Ossa;Sofia;Carolina;5/11/2001;C;TI;1002158965;Barranquilla;1/07/2016;Negocios Internacionales
+200137677;Pino Pajaro;Raul;Andres;25/07/2001;C;TI;1002027614;Barranquilla;16/10/2015;Dise�o Gr�fico
+200137671;Padilla Araque;Geraldine;Estefany;22/07/2001;C;TI;1000384234;Barranquilla;21/06/2018;Contadur�a P�blica
+200137594;Andrade Lozano;Jose;Miguel;24/09/2002;C;TI;1193594764;Chivolo;23/10/2017;Geolog�a
+200137690;Saumeth Perez;Danna;Marcela;12/09/1989;C;CC;1140825062;Barranquilla;17/10/2007;Geolog�a
+200138955;Miranda Betin;Gustavo;Jose;26/06/2001;C;TI;1005605826;Sincelejo;27/06/2016;Derecho
+200130664;Ballestas Insignares;Sebastian;;1/12/2000;C;TI;1010051076;Barranquilla;26/12/2014;Ingenier�a de sistemas
+200137720;Garcia Pumarejo;Adriana;Marcela;13/06/2002;C;TI;1003234877;Valledupar;18/12/2017;Medicina
+200137872;Buelvas Polania;Cristian;Andres;23/03/2001;C;TI;1005568878;Sincelejo;30/03/2015;Arquitectura
+200139137;Villalba Martinez;Camilo;Andres;29/04/2002;C;TI;1002159637;Barranquilla;13/08/2018;Lenguas Modernas y Cultura
+200139405;Ria�o Rosado;Isabella;;21/02/2000;C;CC;1010137675;Riohacha;20/04/2018;Derecho
+200139385;Calderon Lora;Santiago;Jesus;25/01/2001;C;TI;1192805588;Cartagena;5/01/2010;Ingenier�a civil
+200130661;Asmus Mantilla;Valentina;;24/04/2001;C;TI;1001994334;Barranquilla;25/01/2016;Ingenier�a civil
+200137913;Sanjuan Zabala;Jacob;Miguel;17/11/2001;C;TI;1001853150;Barranquilla;20/01/2016;Econom�a
+200137876;Cardona Garcia;Diomer;Alexander;27/07/2001;C;TI;1193382375;Hatonuevo;3/08/2017;Econom�a
+200133866;Ni�o Bueno;Luis;Fernando;17/12/2000;C;TI;1007948581;Barranquilla;14/07/2010;Comunicaci�n social
+200136621;Zapata Amador;Sofia;;19/05/2001;C;TI;1002161678;Barranquilla;11/08/2010;Psicolog�a
+200136631;Ariza Lacera;Diana;Carolina;14/12/2001;C;TI;1001942307;Barranquilla;11/04/2016;Ingenier�a civil
+200137601;Arzuza Gonzalez;Marieth;Camila;12/12/2001;C;TI;1001996401;Barranquilla;22/03/2016;Relaciones Internacionales
+200139208;Urquijo Certain;Nicolas;;10/03/1998;C;CC;1140896896;Barranquilla;4/04/2016;Negocios Internacionales
+200139429;Herrera Rocha;Valentina;;4/08/2002;C;TI;1001916938;Barranquilla;6/04/2018;Matem�ticas
+200137645;De La Rosa Marquez;Isaias;Rafael;30/04/2003;C;TI;1001933531;Sabanalarga;4/01/2011;Geolog�a
+200136581;Moron Vega;Javier;Eduardo;31/08/2002;C;TI;1007182401;La Paz;22/02/2018;Negocios Internacionales
+200136451;Meza Viana;Isabella;;18/06/2002;C;TI;1001942258;Barranquilla;9/07/2016;Comunicaci�n social
+200139171;Murgas Carrillo;Margarita;Victoria;22/11/2001;C;TI;1006680276;Barrancas;26/01/2017;Negocios Internacionales
+200085016;Lizcano Mejia;Geily;Andrea;22/03/2002;C;TI;1002637195;Barranquilla;30/05/2009;Econom�a
+200126469;Trillos Mendoza;Jose;Alejandro;26/10/2000;C;TI;1001855900;Puerto Colombia;8/01/2015;Psicolog�a
+200129513;Buelvas Arrieta;Laura;;29/07/1999;C;CC;1140903791;Barranquilla;2/08/2017;Negocios Internacionales
+200137604;Barros Sierra;Valeria;Vanessa;31/05/2002;C;TI;1006576656;Riohacha;12/12/2014;Comunicaci�n social
+200137873;Caballero Arias;Aura;Marcela;29/11/2001;C;TI;1001995809;Barranquilla;12/10/2016;Negocios Internacionales
+200134261;Serrato Mejia;Sofia;;21/11/2001;C;TI;1000379787;Barranquilla;2/12/2015;Dise�o Gr�fico
+200137764;Martinez Rodriguez;Maria;Jose De Los Milagros;4/01/2002;C;TI;1001946363;Barranquilla;5/10/2009;Negocios Internacionales
+200137902;Payares Santamaria;Ever;Elias;27/06/2002;C;TI;1193042847;Barranquilla;23/12/2016;Geolog�a
+200137692;Soto Villareal;Maria;Fernanda;26/07/2001;C;TI;1001994818;Barranquilla;9/12/2015;Negocios Internacionales
+200137722;Garcia Trillos;Alexandra;;29/12/2001;C;TI;1002030083;Barranquilla;30/01/2014;Psicolog�a
+200128093;Nandin Nu�ez;Olga;Cecilia;14/11/1998;C;CC;1001993825;Barranquilla;29/11/2016;Administraci�n de Empresas
+200139037;Cohen Freile;Andres;David;18/03/2001;C;TI;1003316328;Valledupar;27/04/2015;Econom�a
+200139398;Meza Gordon;Sebastian;Adolfo;17/02/2002;C;TI;1001854403;Barranquilla;6/04/2016;Dise�o Gr�fico
+200129975;Fajardo Gonzalez;Camilo;Andres;20/04/2001;C;TI;1001823404;Barranquilla;17/09/2015;Administraci�n de Empresas
+200137892;Llinas Simanca;Roberto;Carlos;4/09/2000;C;CC;1192796790;Barranquilla;11/09/2018;Administraci�n de Empresas
+200137814;Viana Insignares;Nestor;Eduardo;29/08/2001;C;TI;1002211681;Barranquilla;3/10/2017;Ingenier�a Electr�nica
+200138010;Ariza Esteban;Karina;Alejandra;18/07/2000;C;CC;1193537336;Barranquilla;30/07/2018;Medicina
+200047109;Ruiz Rondon;Sebastian;Enrique;9/04/1999;C;CC;1102886985;Sincelejo;18/04/2017;Ingenier�a civil
+200139210;Cuba Blanco;Camilo;Andres;18/01/2000;C;CC;1001940035;Barranquilla;18/04/2018;Ingenier�a Mec�nica
+200139407;Sierra Melendez;Otto;Alfonso;22/02/2002;C;TI;1007515094;Cartagena;3/06/2016;Ingenier�a Mec�nica
+200129560;Ochoa Bohorquez;Ana;Julieth;13/10/2001;C;TI;1002029965;Soledad;21/10/2015;Enfermer�a
+200131691;Ayola Pretelt;Susana;;5/05/2000;C;TI;1001899219;Cartagena;17/05/2018;Comunicaci�n social
+200132026;Gonzalez Martinez;Alfonso;Javier;3/04/2000;C;CC;1002250293;Cartagena;27/04/2018;Derecho
+200037941;Marchen Balmaceda;Maria;Jose;1/10/2001;C;TI;1001821665;Barranquilla;4/07/2018;Negocios Internacionales
+200137734;Gonzalez Fernandez;Andres;Camilo;9/01/2002;C;TI;1004354726;Santa Marta;13/11/2009;Dise�o Gr�fico
+200137231;Vergara Meza;Elber;Luis;30/05/2002;C;TI;1193571807;Sincelejo;9/07/2010;Ingenier�a Mec�nica
+200139140;Walteros Cardona;Luis;Alfredo;10/10/2000;C;TI;1006570549;Riohacha;3/12/2015;Dise�o Industrial
+200139000;Duncan Picalua;Santiago;;22/03/2002;C;TI;1001945403;Galapa;29/08/2017;Contadur�a P�blica
+200139395;Iriarte Duque;Noelia;;19/01/2001;C;TI;1005708222;Tolu;17/12/2015;Comunicaci�n social
+200139435;Rodriguez Montes;Veronica;Andrea;28/11/2001;C;TI;1001885593;Barranquilla;7/10/2016;Enfermer�a
+200065923;Molina Brito;Yael;Patricia;17/04/2002;C;TI;1002210296;Barranquilla;26/09/2017;Psicolog�a
+200139115;Martinez Mantilla;Jorge;Eduardo;18/10/2001;C;TI;1002160180;Barranquilla;7/11/2008;Ingenier�a Mec�nica
+200139205;Romero Navas;Sharys;Lisandry;9/02/2001;E;CE;521125;Cartagena;8/02/2017;Ingenier�a Electr�nica
+200139151;Agudelo Espa�a;Rashid;Alfonso;16/04/2001;C;TI;1193417074;Barranquilla;11/08/2014;Ingenier�a de sistemas
+200105390;Howard Cuza;Victor;Andres;18/07/1999;C;CC;1140903538;Barranquilla;19/07/2017;Administraci�n de Empresas
+200107548;Mendoza Lopez;Mauricio;David;16/09/2000;C;TI;1010132791;Barranquilla;3/12/2014;Dise�o Gr�fico
+200107328;Arias Duque;Gilbert;Mateo;29/10/1998;C;CC;1234093007;Barranquilla;17/11/2016;Arquitectura
+200106640;Vergara Escorcia;Javier;Jose;26/01/2000;C;TI;1193381618;Barranquilla;9/02/2018;Derecho
+200106094;Duran Galvis;Camila;Andrea;10/12/1999;C;CC;1001779892;Barranquilla;6/02/2018;Dise�o Gr�fico
+200108424;Mejia Perez;Natalia;Andrea;19/09/1999;C;CC;1234096167;Barranquilla;20/09/2017;Lenguas Modernas y Cultura
+200119421;Sarmiento Ferrer;Jorge;Andres;1/10/1999;C;CC;1048330613;Malambo;9/10/2017;Odontolog�a
+200126073;Cuentas Guzman;Marco;Antonio;29/09/2001;C;TI;1001821588;Soledad;30/06/2016;Geolog�a
+200084019;Martinez Arrieta;Valeria;;26/12/1995;C;CC;1067945478;Monteria;27/12/2013;Lenguas Modernas y Cultura
+200076206;Jaimes Fontalvo;Veronica;Nicole;10/12/1997;C;CC;1065837579;Valledupar;14/01/2016;Comunicaci�n social
+200116200;Friebe Carre�o;Walter;Willi;4/06/1998;C;CC;1083035172;Santa Marta;8/06/2016;Administraci�n de Empresas
+200116237;Dahrouj El Hallak;Rayan;;2/02/2000;C;CC;1006743216;Maicao;20/03/2018;Negocios Internacionales
+200071221;Marroquin Escalante;Lenis;Yulissa;14/10/1998;C;CC;1140899634;Barranquilla;25/10/2016;Psicolog�a
+200116415;Bula Amastha;Moises;Eduardo;14/06/1999;C;CC;1235044526;Cartagena;16/06/2017;Medicina
+200119514;Vanegas Fuentes;Juan;Camilo;6/01/2001;C;TI;1006571690;Riohacha, La Guajira;20/12/2017;Psicolog�a
+200119302;Avila Gomez;Marianella;;13/01/2001;C;TI;1007588482;Cartagena;18/02/2016;Contadur�a P�blica
+200083233;Jimenez Davila;Gustavo;Adolfo;7/10/2000;C;TI;1192812308;Barranquilla;22/04/2016;Ingenier�a de sistemas
+200122762;Gomez Buelvas;Sebastian;;24/10/1999;C;CC;1045762455;Barranquilla;5/01/2018;Derecho
+200121877;Rodriguez Fontalvo;Daniel;;26/10/2001;C;TI;1001945207;Santo Tomas ;12/10/2016;Dise�o Gr�fico
+200123356;Anaya Pinillos;Maria;Elena;16/03/2001;C;TI;1001782359;Barranquilla;12/01/2018;Negocios Internacionales
+200119413;Pi�eros Haiek;Julian;Alonso De Jesus;18/09/1998;C;CC;1047504608;Cartagena;22/09/2016;Psicolog�a
+200121096;Paez Moron;Jorge;Alberto;17/01/2002;C;TI;1004276856;Fundacion;6/12/2017;Derecho
+200119973;Ahumada Borja;Andrea;Mariette;18/12/2000;C;TI;1001855838;Barranquilla;29/04/2009;Ingenier�a Electr�nica
+200125465;Pedrozo Valera;Geraldine;;13/07/2000;C;CC;1002129485;Barranquilla;16/07/2018;Ingenier�a El�ctrica
+200119494;Arrieta Sierra;Milies;Yuliana;11/09/1999;C;CC;1047510065;Cartagena;14/09/2017;Derecho
+200119276;Pe�a Ojeda;Camila;Andrea;2/08/2000;C;TI;1001818580;Barranquilla;6/10/2014;Ciencia Pol�tica y Gobierno
+200123433;Ahumada Carballo;Adolfo;Andres;5/12/1997;C;CC;1047500482;Cartagena;8/02/2016;Derecho
+200122714;Rodriguez Villalba;Michelle;Andrea;22/08/1999;C;CC;1193566980;Barranquilla;25/09/2017;Psicolog�a
+200119930;Esper Socarras;Shadia;Nadime;24/04/1998;C;CC;1140898407;Barranquilla;21/07/2016;Medicina
+200121035;Mejia Bonilla;Yubelkis;Nayelis;15/03/2001;C;TI;1192718691;Fonseca;7/07/2015;Comunicaci�n social
+200077763;Palacio Salcedo;Edgar;David;29/08/1996;C;CC;1083015865;Santa Marta;2/09/2014;Filosof�a y Humanidades
+200122529;Cabrera Quintero;Andres;Felipe;3/03/2000;C;CC;1002185561;Cartagena;25/04/2018;Econom�a
+200135761;Quevedo Monta�o;Andrea;Victoria;2/05/2001;C;TI;1126254377;Maracaibo;23/07/2018;Medicina
+200048769;Olivera Tejedor;Ivan Andres;;9/11/2000;C;TI;1001911930;Barranquilla;8/01/2015;Ingenier�a de sistemas
+200137243;Avila Trujillo;Camila;;25/10/2001;C;TI;1001880457;Barrancabermeja;23/02/2018;Relaciones Internacionales
+200134846;Vergara Guzman;Jefferson;Enrique;11/05/1999;C;CC;1127605761;Caracas;16/08/2017;Negocios Internacionales
+200136233;Buritica Nu�ez;Salome;;26/08/1999;E;PS;G13379692;Mexico Df;28/11/2013;Medicina
+200134995;Rubio Anzola;Vanessa;Kristina;10/11/2000;E;CE;825026;Bogot� D.C.;31/05/2018;Odontolog�a
+200134208;Cure Pomeda;Sergio;Andres;30/01/2001;C;TI;1235252939;Maracaibo;5/01/2018;Negocios Internacionales
