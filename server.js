@@ -4,6 +4,7 @@ const lib = require('./lib.js');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 require('dotenv').config();
+var cors = require('cors');
 
 const { DBUSER, DBPASS, DBHOST, DBPORT, DBNAME } = process.env;
 
@@ -15,6 +16,7 @@ const { DBUSER, DBPASS, DBHOST, DBPORT, DBNAME } = process.env;
     await mongoose.connect(dbConnection, { useNewUrlParser: true });
 })()
 
+server.use(cors());
 server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 
