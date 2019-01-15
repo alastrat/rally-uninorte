@@ -6,3 +6,5 @@ package-lock.json
 # file extensions
 .env
 .csv
+.lock
+.pem

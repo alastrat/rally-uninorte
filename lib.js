@@ -541,7 +541,12 @@ exports.findStudents = async (payload) => {
 exports.getTeamResults = async (payload) => {
   try {
     const teams = await Team.find(payload);
-    return teams;
+    const students = await Student.find({ "asistencia": true }).count();
+    const teamsList = [];
+    for (let i = 0; i < teams.length; i++) {
+      teamsList.push({ ...teams[i]._doc, ratio: teams[i].members / students })
+    }
+    return teamsList;
   } catch (error) {
     return error;
   }
