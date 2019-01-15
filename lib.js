@@ -527,9 +527,11 @@ exports.newStudent = async (payload) => {
 exports.findStudents = async (payload) => {
   try {
     let query = {};
-    await Object.keys(payload).forEach(key => {
-      query[key] = { $regex: "^" + payload[key] }
-    });
+    await Object.keys(payload).forEach(key => {            
+      if (key === "asistencia") {
+        query[key] = payload[key]
+      }else query[key] = { $regex: "^" + payload[key] }
+    });    
     const students = await Student.find(query);
     const stats = { registros: students.length }
     return { stats, students };
@@ -544,7 +546,7 @@ exports.getTeamResults = async (payload) => {
     const students = await Student.find({ "asistencia": true }).count();
     const teamsList = [];
     for (let i = 0; i < teams.length; i++) {
-      teamsList.push({ ...teams[i]._doc, ratio: teams[i].members / students })
+      teamsList.push({ ...teams[i]._doc, ratio: (teams[i].members * 100 / students).toFixed(0) })
     }
     return teamsList;
   } catch (error) {
