@@ -503,7 +503,7 @@ exports.newStudent = async (payload) => {
       const apellido1 = checkApellidos[0].charAt(0).toUpperCase() + checkApellidos[0].slice(1);
       const apellido2 = checkApellidos[1].charAt(0).toUpperCase() + checkApellidos[1].slice(1);
       apellidos = `${apellido1} ${apellido2}`
-    } else apellidos = payload.apellidos.charAt(0).toUpperCase();
+    } else apellidos = payload.apellidos.charAt(0).toUpperCase() + payload.apellidos.slice(1);
 
     const primer_nombre = payload.primer_nombre.charAt(0).toUpperCase() + payload.primer_nombre.slice(1);
     const segundo_nombre = payload.segundo_nombre.charAt(0).toUpperCase() + payload.segundo_nombre.slice(1);
