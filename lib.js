@@ -6,405 +6,86 @@ var uniqueValidator = require('mongoose-unique-validator');
 
 let counter = 1;
 const equipos = [
-  {
-    color: 'Amarillo',
-    lugar: "Roble Amarillo",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: 'Amarillo',
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: 'Azul',
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: 'Azul',
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: 'Azul',
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: 'Fucsia',
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: 'Morado',
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: 'Morado',
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: 'Morado',
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: 'Naranja',
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: 'Naranja',
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: 'Naranja',
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: "Negro",
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: "Negro",
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: "Negro",
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: "Blanco",
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: "Blanco",
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: "Blanco",
-    lugar: "Campo deportivo",
-    miembros: 0,
-  }, {
-    color: "Aqua",
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: "Aqua",
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: "Aqua",
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: "Verde",
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: "Verde",
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: "Verde",
-    lugar: "Campo deportivo",
-    miembros: 0,
-  },
-  {
-    color: "Celeste",
-    lugar: "Roble Amarrillo",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Bloque L Edificio Julio Muvdi",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Coliseo los Fundadores",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Bloque G - Edificio Alvaro Jaramillo V",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Casa Blanca",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Biblioteca Karl C. Parrish",
-    miembros: 0
-  },
-  {
-    color: "Celeste",
-    lugar: "Mapuka",
-    miembros: 0,
-  },
-  {
-    color: "Celeste",
-    lugar: "Campo deportivo",
-    miembros: 0,
-  }
+  { color: 'Amarillo', lugar: "1", lugarNombre: "Roble Amarillo", miembros: 0 },
+  { color: 'Amarillo', lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: 'Amarillo', lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: 'Amarillo', lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: 'Amarillo', lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: 'Amarillo', lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: 'Amarillo', lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: 'Amarillo', lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: 'Azul', lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: 'Azul', lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: 'Azul', lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: 'Azul', lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: 'Azul', lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: 'Azul', lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: 'Azul', lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: 'Azul', lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: 'Fucsia', lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: 'Fucsia', lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: 'Fucsia', lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: 'Fucsia', lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: 'Fucsia', lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: 'Fucsia', lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: 'Fucsia', lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: 'Fucsia', lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: 'Morado', lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: 'Morado', lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: 'Morado', lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: 'Morado', lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: 'Morado', lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: 'Morado', lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: 'Morado', lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: 'Morado', lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: 'Naranja', lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: 'Naranja', lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: 'Naranja', lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: 'Naranja', lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: 'Naranja', lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: 'Naranja', lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: 'Naranja', lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: 'Naranja', lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: "Negro", lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: "Negro", lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: "Negro", lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: "Negro", lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: "Negro", lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: "Negro", lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: "Negro", lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: "Negro", lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: "Blanco", lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: "Blanco", lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: "Blanco", lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: "Blanco", lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: "Blanco", lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: "Blanco", lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: "Blanco", lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: "Blanco", lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: "Aqua", lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: "Aqua", lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: "Aqua", lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: "Aqua", lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: "Aqua", lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: "Aqua", lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: "Aqua", lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: "Aqua", lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: "Verde", lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: "Verde", lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: "Verde", lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: "Verde", lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: "Verde", lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: "Verde", lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: "Verde", lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: "Verde", lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 },
+  { color: "Celeste", lugar: "1", lugarNombre: "Roble Amarrillo", miembros: 0 },
+  { color: "Celeste", lugar: "2", lugarNombre: "Bloque L Edificio Julio Muvdi", miembros: 0 },
+  { color: "Celeste", lugar: "3", lugarNombre: "Coliseo los Fundadores", miembros: 0 },
+  { color: "Celeste", lugar: "4", lugarNombre: "Bloque G - Edificio Alvaro Jaramillo V", miembros: 0 },
+  { color: "Celeste", lugar: "5", lugarNombre: "Casa Blanca", miembros: 0 },
+  { color: "Celeste", lugar: "6", lugarNombre: "Biblioteca Karl C. Parrish", miembros: 0 },
+  { color: "Celeste", lugar: "7", lugarNombre: "Mapuka", miembros: 0 },
+  { color: "Celeste", lugar: "8", lugarNombre: "Campo deportivo", miembros: 0 }
 ];
 
 const schema = {
@@ -527,11 +208,11 @@ exports.newStudent = async (payload) => {
 exports.findStudents = async (payload) => {
   try {
     let query = {};
-    await Object.keys(payload).forEach(key => {            
+    await Object.keys(payload).forEach(key => {
       if (key === "asistencia") {
         query[key] = payload[key]
-      }else query[key] = { $regex: "^" + payload[key] }
-    });    
+      } else query[key] = { $regex: "^" + payload[key] }
+    });
     const students = await Student.find(query);
     const stats = { registros: students.length }
     return { stats, students };
@@ -574,7 +255,7 @@ exports.checkin = async (payload) => {
 
 exports.demo = async (base) => {
   await (async function () {
-    let index = 0
+    let index = 0;
     for (index; index < base; index++) {
       await getTeamBasedInTurn(index);
     }
