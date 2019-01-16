@@ -2,9 +2,8 @@ const fs = require('fs');
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const path = require('path');
-var uniqueValidator = require('mongoose-unique-validator');
-
-// let counter = 1;
+const uniqueValidator = require('mongoose-unique-validator');
+const json2csv = require('json2csv').parse;
 
 const equipos = [
   {
@@ -616,7 +615,7 @@ exports.findStudents = async (payload) => {
         query[key] = payload[key]
       } else query[key] = { $regex: "^" + payload[key] }
     });
-    const students = await Student.find(query);
+    const students = await Student.find(query).limit(5);
     const stats = { registros: students.length }
     return { stats, students };
   } catch (error) {
@@ -636,6 +635,11 @@ exports.getTeamResults = async (payload) => {
   } catch (error) {
     return error;
   }
+}
+
+exports.resetTeams = async () => {
+  await Team.updateMany({}, { $set: { members: 0 } });
+  return await Team.find().select(['name', 'members']);
 }
 
 exports.checkin = async (payload) => {
@@ -672,6 +676,43 @@ exports.demo = async (base) => {
   })()
 }
 
+exports.getCSVFile = async () => {
+  try {
+    const fields = ["codigo", "apellidos", "primer_nombre", "segundo_nombre", "tipo_doc", "no_doc", "financiamiento", "programa", "equipo"]
+    const data = await Student.find({ asistencia: true })
+      .select(fields)
+
+    const opts = { fields };
+    const csv = json2csv(data, opts);
+    return csv;
+  } catch (error) {
+    return error
+  }
+}
+
+exports.colorSummary = async (payload) => {
+  const response = {
+    name: '',
+    1: { subcat: 'Biblioteca Karl C. Parrish', miembros: 0, ratio: 0 },
+    2: { subcat: 'Bloque G  Edificio Alvaro Jaramillo V', miembros: 0, ratio: 0 },
+    3: { subcat: 'Bloque L Edificio Julio Muvdi', miembros: 0, ratio: 0 },
+    4: { subcat: 'Campo Deportivo', miembros: 0, ratio: 0 },
+    5: { subcat: 'Casa Blanca', miembros: 0, ratio: 0 },
+    6: { subcat: 'Coliseo Los Fundadores', miembros: 0, ratio: 0 },
+    7: { subcat: 'Mapuka', miembros: 0, ratio: 0 },
+    8: { subcat: 'Roble Amarrillo', miembros: 0, ratio: 0 },
+  }
+  const students = await Student.find({ equipo: { $regex: "^" + payload.color }, asistencia: true });
+
+  for (let i = 0; i < students.length; i++) {
+    const index = students[i].equipo.slice(-1);
+    response.name = payload.color;
+    response[index].miembros += 1;
+    response[index].ratio = (response[index].miembros * 100 / students.length).toFixed(0)
+  }
+
+  return response;
+}
 
 const storeInDB = async (array) => {
   let data = {};

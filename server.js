@@ -21,6 +21,7 @@ server.use(bodyParser.urlencoded({ extended: true }));
 server.use(bodyParser.json());
 
 server.post('/new-students-in-bulk', async (req, res) => {
+    await lib.resetTeams();
     const students = await lib.uploadStudentsInBulk();
     if (students instanceof Error) return res.status(400).json(students.message);
     return res.status(200).json({ message: `Se agregaron [${students}] estudiantes exitosamente.` });
@@ -50,6 +51,21 @@ server.post('/checkin-student', async (req, res) => {
 server.post('/results-teams', async (req, res) => {
     const equipos = await lib.getTeamResults(req.body);
     return res.status(200).json({ equipos });
+});
+
+server.get('/color-summary', async (req, res) => {
+    const results = await lib.colorSummary(req.query);
+    return res.status(200).json({ results });
+});
+
+server.post('/reset-teams', async (req, res) => {
+    const equipos = await lib.resetTeams();
+    return res.status(200).json({ equipos });
+});
+
+server.get('/get-csv', async (req, res) => {
+    const csv = await lib.getCSVFile();
+    return res.status(200).send(csv);
 });
 
 server.get('/demo', async (req, res) => {
