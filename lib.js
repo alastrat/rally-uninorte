@@ -661,7 +661,7 @@ exports.checkin = async (payload) => {
 
 exports.demo = async (base) => {
   await (async function () {
-    let index = 0
+    let index = 0;
     for (index; index < base; index++) {
       await getTeamBasedInTurn(index);
     }
